@@ -30,15 +30,24 @@
   #
  ![](map/10.jpg)
   #
-  2、请在左侧导航栏中选择启动器设置并安装运行库。aarch64-20200928.tar.xz 或 aarch32-20200928.tar.xz
+  ### 开始
+2. 首先，你需要创建一个用户。 请在 `左侧导航栏` - `用户` - `添加新用户` 来创建一个用户
+3. 其次，你需要下载Minecraft。 请在 `左侧导航栏` - `游戏列表` - `安装新游戏版本` 下载Minecraft游戏
+  4、请在左侧导航栏中选择启动器设置并安装运行库。aarch64-20200928.tar.xz 或 aarch32-20200928.tar.xz
   #
   [运行库下载](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
-  
-  ![](map/11.jpg)
+ #  
+ #5. 最后，你将要启动游戏。 请在`左侧导航栏` - `主页` 选择一个Minecraft版本并启动。
+ #
+ 6. 显示跳跃键
+ #
+ ![](map/11.jpg)
+ #
+ 7.地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
  #
  #
  #
-  [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2) 
+ #
   ## Minecraft 版本下载
   https://www.minebbs.com/resources/categories/55/
   
