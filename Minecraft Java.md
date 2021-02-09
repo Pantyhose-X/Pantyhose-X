@@ -87,36 +87,7 @@
   https://www.youtube.com/watch?v=4Uuig3E8IXU
  
   
-  ## 模组 
-  https://dev.bukkit.org/
-  https://www.curseforge.com/
-  https://www.minecraft-schematics.com/
-  https://forums.minecraftforge.net/
   
-  
-  ## Minecraft 世界编辑器
-https://www.worldpainter.net/
-https://github.com/topics/minecraft
-https://github.com/collections/hacking-minecraft
-https://www.realtimerendering.com/erich/minecraft/public/mineways/
-
-
-## Minecraft 3D图形导出
-https://minecraft.gamepedia.com/Programs_and_editors/3D_exporters
-https://www.world-machine.com/
-https://github.com/jmc2obj/j-mc-2-obj
-
-
-
-
-
-
-## Minecraft 博客
-https://www.minethatcraft.com/
-https://minecraftbuildinginc.com/
-https://pcminecraft-mods.com/tag/adventure-maps-for-minecraft/
-
-
   
   
 # 
