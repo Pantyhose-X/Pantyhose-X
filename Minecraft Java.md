@@ -46,7 +46,7 @@
  7.地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
  #
  #
- # 另一个安卓版 [MultiCraft].(https://www.portalprogramas.com/en/multicraft-free-miner/android/）
+ # 另一个安卓版 [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/）
  #
   ## Minecraft 版本下载
   https://www.minebbs.com/resources/categories/55/
