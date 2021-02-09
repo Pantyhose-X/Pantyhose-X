@@ -37,7 +37,7 @@
   #
   [运行库下载](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
  #  
- #5. 最后，你将要启动游戏。 请在`左侧导航栏` - `主页` 选择一个Minecraft版本并启动。
+ 5. 最后，你将要启动游戏。 请在`左侧导航栏` - `主页` 选择一个Minecraft版本并启动。
  #
  6. 显示跳跃键
  #
