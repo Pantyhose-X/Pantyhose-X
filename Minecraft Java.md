@@ -46,7 +46,9 @@
  7.地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
  #
  #
- # 另一个安卓版 [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/）
+ # 另一个安卓版 
+ #
+ [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/）
  #
   ## Minecraft 版本下载
   https://www.minebbs.com/resources/categories/55/
@@ -57,7 +59,9 @@
   下载bookmarks.html
   导入浏览器或浏览器打开
   
-  ## [创建服务器].(https://cuberite.org/）
+  ## [创建服务器]
+  [cuberite](https://cuberite.org/）
+  
   管理服务器网站 localhost:8080
    ![](map/12.jpg)
   #
