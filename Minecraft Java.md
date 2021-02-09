@@ -58,6 +58,14 @@
   导入浏览器或浏览器打开
   
   ## [创建服务器].(https://cuberite.org/）
+   ![](map/12.jpg)
+  #
+  ![](map/13.jpg)
+  #
+  ![](map/14.jpg)
+  #
+  ![](map/15.jpg)
+  #
   #
   https://github.com/GlowstoneMC/Glowstone
   #
