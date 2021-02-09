@@ -58,6 +58,7 @@
   导入浏览器或浏览器打开
   
   ## [创建服务器].(https://cuberite.org/）
+  管理服务器网站 localhost:8080
    ![](map/12.jpg)
   #
   ![](map/13.jpg)
@@ -65,6 +66,14 @@
   ![](map/14.jpg)
   #
   ![](map/15.jpg)
+  #
+   游戏模式	0表示生存模式，1表示创意模式，2表示冒险模式，3表示观众模式
+  #
+  使用命令修改游戏模式  /gamemode 0
+  #
+  win10版要修改 webadmin.ini  才可以登陆localhost:8080
+  #
+  ![](map/16.jpg)
   #
   #
   https://github.com/GlowstoneMC/Glowstone
