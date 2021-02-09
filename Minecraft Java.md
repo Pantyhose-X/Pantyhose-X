@@ -2,6 +2,7 @@
   
   ![](map/1.jpg)
   1、下载安卓Minecraft Java版。[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
+  
   ![](map/9.jpg)
   
   2、打开[PojavLauncher选择地图对于的版本、启动游戏。
@@ -23,8 +24,23 @@
   ![](map/4.jpg)
   
   
+  ##  另一个 安卓java版 
+  #
+  1、下载 [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
+  #
+ ![](map/10.jpg)
+  #
+  2、请在左侧导航栏中选择启动器设置并安装运行库。aarch64-20200928.tar.xz 或 aarch32-20200928.tar.xz
+  #
+  [运行库下载](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
+  
+  ![](map/11.jpg)
+ #
+ #
+ #
+  [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2) 
   ## Minecraft 版本下载
-https://www.minebbs.com/resources/categories/55/
+  https://www.minebbs.com/resources/categories/55/
   
   ## 我的 Minecraft 书签分享
   
