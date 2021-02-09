@@ -111,7 +111,7 @@ http://bbs.clouddream.online/
 #
 #
 
-![](map/17.JPG)
+![](map/17.jpg)
 ### Minetest
 [https://www.minetest.net/](https://www.minetest.cn/)
 
