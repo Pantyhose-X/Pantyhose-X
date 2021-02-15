@@ -289,3 +289,29 @@ Win10： 7-Zip
 Win10：Neat Download Manager 1.2
 
 Android：IDM+
+
+## 临时网盘
+
+贵族网盘、https://www.gueizu.com/
+
+6盘、http://6pan.cn/
+
+奶牛快传、 https://cowtransfer.com/ 总共支持 2.0GB 大小，单次上传最多支持 6 个文件同时上传，下载速度快，上传简单，无需注册，无广告，支持设置分享链接密码！ 奶牛快传免费用户可以保存 7 天。
+
+100G三个月临时网盘、https://degoo.com/
+
+2G网盘、https://www.mailbigfile.com/
+
+2GB空间、https://www.hightail.com/
+
+最大尺寸 每个档案	网页：1GB / FTP：10GB、http://dl.free.fr/
+
+300GB网盘、https://1fichier.com/
+
+https://dropmeafile.com/
+
+10G 12个月临时网盘、https://www.pcloud.com/
+
+5G网盘、https://www.idrive.com/
+
+
