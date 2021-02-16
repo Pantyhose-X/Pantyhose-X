@@ -69,6 +69,9 @@
 写/worlds 
 应该看得到Novigrad 
 输入 /portal Novigrad
+
+
+
 现在得手工走到建筑的位置：/tp 883 62 1310
 
 把Novigrad改成你的地图文件夹名称
