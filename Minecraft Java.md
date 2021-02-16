@@ -112,7 +112,12 @@ http://bbs.clouddream.online/
 #
 
 ![](map/17.jpg)
-### Minetest
+### Minetests是游戏盒。
+
+已经有469个沙盒游戏了 https://content.minetest.net/packages/?type=game   https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295fd
+
+
+### 下载Minetest
 [https://www.minetest.net/](https://www.minetest.cn/)
 
 ### Minetest Python 版
@@ -121,6 +126,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 ### Minetest 教程
 https://wap.tljpxm.com/app/faxianshow.jsp?id=1776482
 
+# /help 查看命令
 # /grantme all 给自己全部特权。
 # /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
 # /teleport 玩家名称 或者坐标/teleport (x,y,z)瞬间移动
@@ -147,13 +153,15 @@ PC   [Yandex](https://browser.yandex.com/)
 
 安卓 [Yandex](https://m.downloadatoz.com/yandex-browser-with-protect/com.yandex.browser/)
 
-PC   [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
+安卓 [Via](https://viayoo.com/zh-cn/)
 
-PC 菜单很大很好   [Atom](https://browser.ru/)
+PC   [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
 
 安卓 [kiwibrowser](https://kiwibrowser.com/)
 
 安卓 [火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
+
+PC 菜单很大很好   [Atom](https://browser.ru/)
 
 
 
