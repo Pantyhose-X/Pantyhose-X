@@ -63,7 +63,9 @@
  ### 导入地图
   把地图下载并提取到你的Cuberite/文件夹。
 在settings.ini的[Worlds]下面添加World=Novigrad [WorldPaths] 下加 Novigrad=Novigrad
+
 启动服务器，加入游戏，
+
 写/worlds 
 应该看得到Novigrad 
 输入 /portal Novigrad
