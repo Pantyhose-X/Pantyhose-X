@@ -58,6 +58,16 @@
   
   ## [创建服务器]
   [cuberite](https://cuberite.org/)
+ ### 导入地图
+  把地图下载并提取到你的Cuberite/文件夹。
+在settings.ini的[Worlds]下面添加World=Novigrad [WorldPaths] 下加 Novigrad=Novigrad
+启动服务器，加入游戏，
+写/worlds 
+应该看得到Novigrad 
+输入 /portal Novigrad
+现在得手工走到建筑的位置：/tp 883 62 1310
+
+把Novigrad改成你的地图文件夹名称
   
   管理服务器网站 localhost:8080
    ![](map/12.jpg)
