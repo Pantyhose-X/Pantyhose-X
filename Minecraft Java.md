@@ -1,4 +1,6 @@
-  #  Minecraft Java 导入地图教程
+有什么问题留言我https://github.com/Pantyhose-X/Pantyhose-X/discussions
+
+#  Minecraft Java 导入地图教程
   
   ![](map/1.jpg)
   1、下载安卓Minecraft Java版。[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
@@ -68,7 +70,9 @@
 现在得手工走到建筑的位置：/tp 883 62 1310
 
 把Novigrad改成你的地图文件夹名称
-  
+  ## 地图导入说明 https://github.com/cuberite/cuberite/issues/5126#issuecomment-779821638
+  #
+ #
   管理服务器网站 localhost:8080
    ![](map/12.jpg)
   #
