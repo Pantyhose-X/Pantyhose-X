@@ -129,6 +129,8 @@ https://github.com/sprintingkiwi/pycraft_mod
 https://wap.tljpxm.com/app/faxianshow.jsp?id=1776482
 
 # /help 查看命令
+/help all-根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考
+/help privs-列出服务器上可能授予玩家的所有特权
 # /grantme all 给自己全部特权。
 # /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
 # /teleport 玩家名称 或者坐标/teleport (x,y,z)瞬间移动
