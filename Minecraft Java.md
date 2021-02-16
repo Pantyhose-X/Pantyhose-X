@@ -50,7 +50,11 @@
  
   [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
  #
- 
+ #
+ #
+ ## Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
+ #
+ #
   
   ## [创建服务器]
   [cuberite](https://cuberite.org/)
@@ -94,7 +98,7 @@
 https://www.wiley.com/en-gb/Adventures+In+-c-7732
 https://www.wiley.com/WileyCDA/Section/id-823690.html
 
-## Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
+
  #
   ## Minecraft 版本下载
   https://www.minebbs.com/resources/categories/55/
