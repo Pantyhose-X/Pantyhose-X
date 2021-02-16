@@ -106,7 +106,10 @@ https://www.wiley.com/WileyCDA/Section/id-823690.html
   导入浏览器或浏览器打开
 
 # 我的世界论坛
+https://klpbbs.com/forum.php?mod=viewthread&tid=5123&page=1&extra=#pid60235
+#
 https://www.minebbs.com/members/aiss.15737/
+#
 #
 http://bbs.clouddream.online/
 #
