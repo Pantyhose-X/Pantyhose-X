@@ -128,7 +128,10 @@ https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295
 https://github.com/sprintingkiwi/pycraft_mod
 
 ### Minetest 教程
-https://wap.tljpxm.com/app/faxianshow.jsp?id=1776482
+Minetest服务器连接教程
+有的服务器不需要输入密码。。
+Nane/password名称密码、、随便什么,名称密码都可以、然后点Connect
+再输入一次密码,必须相同、然后点Register and Join
 
 # /help 查看命令
 # /help all 根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考
