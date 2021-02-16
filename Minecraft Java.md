@@ -50,16 +50,7 @@
  
   [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
  #
- ## Minecraft光影 https://www.sonicether.com/seus/#downloads
- #
-  ## Minecraft 版本下载
-  https://www.minebbs.com/resources/categories/55/
-  
-  ## 我的 Minecraft 书签分享
-  
-  [书签](https://github.com/Survivalwar/Pantyhose-X/releases/tag/bookmarks) 
-  下载bookmarks.html
-  导入浏览器或浏览器打开
+ 
   
   ## [创建服务器]
   [cuberite](https://cuberite.org/)
@@ -103,7 +94,16 @@
 https://www.wiley.com/en-gb/Adventures+In+-c-7732
 https://www.wiley.com/WileyCDA/Section/id-823690.html
 
-
+## Minecraft光影  https://www.sonicether.com/seus/#downloads  渲染距离超过15手机会坏的
+ #
+  ## Minecraft 版本下载
+  https://www.minebbs.com/resources/categories/55/
+  
+  ## 我的 Minecraft 书签分享
+  
+  [书签](https://github.com/Survivalwar/Pantyhose-X/releases/tag/bookmarks) 
+  下载bookmarks.html
+  导入浏览器或浏览器打开
 
 # 我的世界论坛
 https://www.minebbs.com/members/aiss.15737/
