@@ -6,6 +6,7 @@
   [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) iOS版
   #
   ![](map/1.jpg)
+  #
   1、下载安卓Minecraft Java版。[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
   #
   ![](map/9.jpg)
@@ -70,7 +71,7 @@
  #
  #
  #
-  ## [创建服务器]
+  ## [创建Minecraft服务器]
   [cuberite](https://cuberite.org/)
  ### 导入地图
  #
