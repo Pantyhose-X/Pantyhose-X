@@ -236,9 +236,9 @@ https://www.crx4chrome.com/
 #
 ##  种子bt下载
 https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
-
+#
 安卓版https://github.com/proninyaroslav/libretorrent
-
+#
 ##  垃圾百度 
 多吉搜索https://dogedoge.com/
 #
@@ -255,125 +255,127 @@ Magi搜索https://magi.com
 #
 #
 ### 游戏商店
-
+#
 [gamebanana](https://gamebanana.com/)
-
+#
 [overwolf](https://www.overwolf.com/)
-
+#
 [steam](https://store.steampowered.com/app/550650/Black_Squad/)
-
+#
 [games](https://store.my.games/)
-
+#
 [lutris](https://lutris.net/games/)
-
+#
 #
 #
 ## 录视频
-
+#
 [obs](https://obsproject.com/)
-
+#
 ## 视频播放器
-
+#
 [mpv](https://mpv.io/)
-
+#
 [kmplayer](https://en.kmplayer.com/)
-
+#
 [PotPlayer](https://potplayer.daum.net/)
-
+#
 [jellyfin](https://jellyfin.org/)
-
+#
 ## bt播放器
-
+#
 [Soda Player](https://www.sodaplayer.com/)
-
+#
 [powder.media](https://powder.media/)
-
+#
 [webtorrent](https://webtorrent.io/)
-
+#
 [在线服务器](https://github.com/XIU2/PeerflixServerZH)
-
+#
 [安卓](https://m.shouji.com.cn/down/174886.html)
-
-
+#
+#
 ## 驱动更新
-
+#
 [Driver Booster Free](https://www.filehorse.com/download-driver-booster-free/)
-
+#
 ## 杀毒软件
-
+#
 [malwarebytes](https://www.malwarebytes.com/)
-
+#
 [superantispyware](https://www.superantispyware.com/free-edition.html)
-
+#
 [bitdefender](https://www.bitdefender.com/solutions/free.html)
-
+#
 [comodo](https://www.comodo.com/?af=7639)
-
+#
 [ikarussecurity](https://www.ikarussecurity.com/en/sdks-and-apis/ikarus-scan-engine/)
-
+#
 [avast](https://www.avast.com/zh-cn/free-antivirus-download)
-
+#
 [avira](https://www.avira.com/zh-cn/free-antivirus)
-
+#
 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
-
+#
 安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
-
-
-
-
-
+#
+#
+#
+#
+#
 ## 免费无限容量网盘github
-
+#
 上传文件大小限制2GB
-
+#
 不限速
-
+#
 注册要用手机号接收验证码
-
+#
 https://www.dogedoge.com/results?q=%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%9F%AD%E4%BF%A1
-
+#
 注册后创建，公有仓库，或私有仓库。
-
+#
 然后点Releases上传文件就可以。
-
+#
 视频类文件，建议用密码压缩后再上传。
-
+#
 建议使用标准的压缩软件，不使用标准的压缩软件压缩，会出现解压失败，文件就废了。
-
+#
 Android：ZArchiver 
-
+#
 Win10： 7-Zip
-
+#
 下载建议用多线程下载工具，
-
+#
 Win10：Neat Download Manager 1.2
-
+#
 Android：IDM+
-
+#
 ## 贵族网盘、https://www.gueizu.com/
-
-
+#
+#
 ## 临时网盘
-
+#
 文叔叔、https://www.wenshushu.cn/
-
+#
 奶牛快传、 https://cowtransfer.com/ 总共支持 2.0GB 大小，单次上传最多支持 6 个文件同时上传，下载速度快，上传简单，无需注册，无广告，支持设置分享链接密码！ 奶牛快传免费用户可以保存 7 天。
-
+#
 100G三个月临时网盘、https://degoo.com/
-
+#
 2G网盘、https://www.mailbigfile.com/
-
+#
 2GB空间、https://www.hightail.com/
-
+#
 最大尺寸 每个档案	网页：1GB / FTP：10GB、http://dl.free.fr/
-
+#
 300GB网盘、https://1fichier.com/
-
+#
 https://dropmeafile.com/
-
+#
 10G 12个月临时网盘、https://www.pcloud.com/
-
+#
 5G网盘、https://www.idrive.com/
+#
+#
 
-
+#
