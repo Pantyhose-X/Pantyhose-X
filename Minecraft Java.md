@@ -30,6 +30,7 @@
 [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  iOS版
 ##  另一个 安卓java版 
 * 1、下载 [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
+#
 ![](map/10.jpg)
 ### 开始
 * 2、首先，你需要创建一个用户。 请在 `左侧导航栏` - `用户` - `添加新用户` 来创建一个用户
@@ -48,59 +49,47 @@
 * [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
 * [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
 * [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
- ## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
-  ## [创建Minecraft服务器]
-  [cuberite](https://cuberite.org/)
- ### 导入地图
- #
-  把地图下载并提取到你的Cuberite/文件夹。
-在settings.ini的[Worlds]下面添加World=Novigrad [WorldPaths] 下加 Novigrad=Novigrad
+## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
+## [创建Minecraft服务器]
+[cuberite](https://cuberite.org/)
+### 导入地图
+* 把Novigrad改成你的地图文件夹名称
+* 1、把地图下载并提取到你的Cuberite/文件夹。
+* 2、在settings.ini的[Worlds]下面添加World=Novigrad [WorldPaths] 下加 Novigrad=Novigrad
+* 3、启动服务器，加入游戏，写/worlds 应该看得到Novigrad
+* 4、输入 /portal Novigrad
+* 5、现在得手工走到建筑的位置：/tp 883 62 1310
+## 地图导入说明 https://github.com/cuberite/cuberite/issues/5126#issuecomment-779821638
+管理服务器网站 localhost:8080
 #
-启动服务器，加入游戏，
+![](map/12.jpg)
 #
-写/worlds 应该看得到Novigrad 
+![](map/13.jpg)
 #
-输入 /portal Novigrad
+![](map/14.jpg)
 #
-现在得手工走到建筑的位置：/tp 883 62 1310
+![](map/15.jpg)
 #
-把Novigrad改成你的地图文件夹名称
+游戏模式	0表示生存模式，1表示创意模式，2表示冒险模式，3表示观众模式
 #
-  ## 地图导入说明 https://github.com/cuberite/cuberite/issues/5126#issuecomment-779821638
-  #
- #
-  管理服务器网站 localhost:8080
-  #
-   ![](map/12.jpg)
-  #
-  ![](map/13.jpg)
-  #
-  ![](map/14.jpg)
-  #
-  ![](map/15.jpg)
-  #
-   游戏模式	0表示生存模式，1表示创意模式，2表示冒险模式，3表示观众模式
-  #
-  使用命令修改游戏模式  /gamemode 0
-  #
-  win10版要修改 webadmin.ini  才可以登陆localhost:8080
-  #
-  ![](map/16.jpg)
-  #
-  #
-  https://github.com/GlowstoneMC/Glowstone
-  #
-  https://www.youtube.com/watch?v=zNfPAgXS1M0
-  #
-  https://www.youtube.com/watch?v=4Uuig3E8IXU
- #
-  #
-  #
-  #
-  #
+使用命令修改游戏模式  /gamemode 0
+#
+win10版要修改 webadmin.ini  才可以登陆localhost:8080
+#
+![](map/16.jpg)
+#
+#
+https://github.com/GlowstoneMC/Glowstone
+#
+https://www.youtube.com/watch?v=zNfPAgXS1M0
+#
+https://www.youtube.com/watch?v=4Uuig3E8IXU
+#
+#
+#
 # 
-  ## Minecraft Python 教程
-  https://imgchr.com/album/BKW6K
+## Minecraft Python 教程
+https://imgchr.com/album/BKW6K
   #
  地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
  #
