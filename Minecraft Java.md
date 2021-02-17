@@ -45,8 +45,11 @@
 ![](map/11.jpg)
 #
 * 7、地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
-## 另一个安卓版 
+## 其他安卓版 
+* [MultiCraft ― Build and Mine!](https://apkalso.com/multicraft-%E2%80%95-build-and-mine-%F0%9F%91%8D-1-15-1-1/)
 * [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
+* [Multicraft Block Craft Mini World 3D](https://steprimo.com/android/us/app/com.exploration.youcraft/Multicraft-Block-Craft-Mini-World-3D/)
+* [Master Craft New MultiCraft Game](https://steprimo.com/android/us/app/com.blockcrafts.minicraftsimulator/Master-Craft-New-MultiCraft-Game/)
 ## 基于BoatApp的安卓版
 * [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
 * [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
