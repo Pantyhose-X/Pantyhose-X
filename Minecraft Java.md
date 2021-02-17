@@ -27,11 +27,9 @@
 #
 ![](map/4.jpg)
 #
-[PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  ''' iOS版 '''
-#
+[PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  iOS版
 ##  另一个 安卓java版 
 * 1、下载 [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
-#
 ![](map/10.jpg)
 ### 开始
 * 2、首先，你需要创建一个用户。 请在 `左侧导航栏` - `用户` - `添加新用户` 来创建一个用户
@@ -44,20 +42,13 @@
 ![](map/11.jpg)
 #
 * 7、地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
-#
-# 另一个安卓版 
+## 另一个安卓版 
 * [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
-#
 ## 基于BoatApp的安卓版
 * [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
 * [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
 * [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
- #
- #
  ## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
- #
- #
- #
   ## [创建Minecraft服务器]
   [cuberite](https://cuberite.org/)
  ### 导入地图
