@@ -60,7 +60,7 @@
 * 4、输入 /portal Novigrad
 * 5、现在得手工走到建筑的位置：/tp 883 62 1310
 ## 地图导入说明 https://github.com/cuberite/cuberite/issues/5126#issuecomment-779821638
-管理服务器网站 localhost:8080
+* 管理服务器网站 localhost:8080
 #
 ![](map/12.jpg)
 #
@@ -70,65 +70,52 @@
 #
 ![](map/15.jpg)
 #
-游戏模式	0表示生存模式，1表示创意模式，2表示冒险模式，3表示观众模式
-#
-使用命令修改游戏模式  /gamemode 0
-#
-win10版要修改 webadmin.ini  才可以登陆localhost:8080
+* 游戏模式	0表示生存模式，1表示创意模式，2表示冒险模式，3表示观众模式
+* 使用命令修改游戏模式  /gamemode 0
+* win10版要修改 webadmin.ini  才可以登陆localhost:8080
 #
 ![](map/16.jpg)
 #
-#
-https://github.com/GlowstoneMC/Glowstone
-#
-https://www.youtube.com/watch?v=zNfPAgXS1M0
-#
-https://www.youtube.com/watch?v=4Uuig3E8IXU
+## P2P服务器
+* https://github.com/GlowstoneMC/Glowstone
+* https://www.youtube.com/watch?v=zNfPAgXS1M0
+* https://www.youtube.com/watch?v=4Uuig3E8IXU
 #
 #
 #
 # 
 ## Minecraft Python 教程
 https://imgchr.com/album/BKW6K
-  #
- 地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
- #
- ![](map/6.JPG)
+* 地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
+#
+![](map/6.JPG)
 #
 ## Minecraft Python 书籍
-#
-https://www.wiley.com/en-gb/Adventures+In+-c-7732
-#
-https://www.wiley.com/WileyCDA/Section/id-823690.html
+* https://www.wiley.com/en-gb/Adventures+In+-c-7732
+* https://www.wiley.com/WileyCDA/Section/id-823690.html
 #
 #
- #
-  ## Minecraft 版本下载
-  https://www.minebbs.com/resources/categories/55/
-  #
-  ## 我的 Minecraft 书签分享
-  #
-  [书签](https://github.com/Survivalwar/Pantyhose-X/releases/tag/bookmarks) 
-  下载bookmarks.html
-  导入浏览器或浏览器打开
+## Minecraft 版本下载
+https://www.minebbs.com/resources/categories/55/
+#
+## 我的 Minecraft 书签分享
+* [书签](https://github.com/Survivalwar/Pantyhose-X/releases/tag/bookmarks) 
+* 下载bookmarks.html
+* 导入浏览器或浏览器打开
 #
 # 我的世界论坛
-https://klpbbs.com/forum.php?mod=viewthread&tid=5123&page=1&extra=#pid60235
-#
-https://www.minebbs.com/members/aiss.15737/
-#
-#
-http://bbs.clouddream.online/
+* https://klpbbs.com/forum.php?mod=viewthread&tid=5123&page=1&extra=#pid60235
+* https://www.minebbs.com/members/aiss.15737/
+* http://bbs.clouddream.online/
 #
 #
 #
 #
 ![](map/17.jpg)
 ### Minetests是游戏盒。
-#
-已经有469个沙盒游戏了 https://content.minetest.net/packages/?type=game  
-#
-https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295fd
+* 已经有469个沙盒游戏了
+* https://content.minetest.net/packages/?type=game
+* https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295fd
 #
 #
 ### 下载Minetest
@@ -138,27 +125,26 @@ https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295
 https://github.com/sprintingkiwi/pycraft_mod
 #
 ### Minetest 教程
-Minetest服务器连接教程
-#
-有的服务器不需要输入密码。
-#
-Nane/password名称密码、、随便什么,名称密码都可以、然后点Connect
-再输入一次密码,必须相同、然后点Register and Join
+* Minetest服务器连接教程
+* 有的服务器不需要输入密码。
+* Nane/password名称密码、、随便什么,名称密码都可以、然后点Connect
+* 再输入一次密码,必须相同、然后点Register and Join
+* #
+* #
 # 如何在单人游戏中设置特权？/grant singleplayer all 或/grant singleplayer（特权名称)
-- /help 查看命令
-- /help all 根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考
-- /help privs 列出服务器上可能授予玩家的所有特权
-- /grantme all 给自己全部特权。
-- /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
-- /teleport 玩家名称 或者坐标/teleport (x,y,z)瞬间移动
-- /time 21:00 时间设置、
-- all     表示全部
-- fly     表示飞行
-- noclip  表示穿墙透视
-- fast    表示快速移动
+* /help 查看命令
+* /help all 根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考
+* /help privs 列出服务器上可能授予玩家的所有特权
+* /grantme all 给自己全部特权。
+* /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
+* /teleport 玩家名称 或者坐标/teleport (x,y,z)瞬间移动
+* /time 21:00 时间设置、
+* all     表示全部
+* fly     表示飞行
+* noclip  表示穿墙透视
+* fast    表示快速移动
 # 特权：https://wiki.minetest.net/Privileges/zh-hans
 # 服务器命令：https://wiki.minetest.net/Server_commands/zh-hans
-#
 #
 #
 #
@@ -169,181 +155,113 @@ Nane/password名称密码、、随便什么,名称密码都可以、然后点Con
 ###    替代品
 #
 ##  翻译功能浏览器
-#
-PC   [Yandex](https://browser.yandex.com/)
-#
-安卓 [Yandex](https://m.downloadatoz.com/yandex-browser-with-protect/com.yandex.browser/)
-#
-安卓 [Via](https://viayoo.com/zh-cn/)
-#
-PC   [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
-#
-安卓 [kiwibrowser](https://kiwibrowser.com/)
-#
-安卓 [火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
-#
-PC 菜单很大很好   [Atom](https://browser.ru/)
+* PC [Yandex](https://browser.yandex.com/)
+* 安卓 [Yandex](https://m.downloadatoz.com/yandex-browser-with-protect/com.yandex.browser/)
+* 安卓 [Via](https://viayoo.com/zh-cn/)
+* PC [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
+* 安卓 [kiwibrowser](https://kiwibrowser.com/)
+* 安卓 [火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
+* PC 菜单很大很好   [Atom](https://browser.ru/)
 #
 #
 #
 ## 浏览器插件
-#
-https://www.gugeapps.net/
-#
-http://www.crx4.com/
-#
-https://chrome.zzzmh.cn/
-#
-https://www.crx4chrome.com/
-#
-#
-#
-[]()
-#
+* https://www.gugeapps.net/
+* http://www.crx4.com/
+* https://chrome.zzzmh.cn/
+* https://www.crx4chrome.com/
 #
 #
 ##  种子bt下载
-https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+* https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+* 安卓版https://github.com/proninyaroslav/libretorrent
 #
-安卓版https://github.com/proninyaroslav/libretorrent
 #
 ##  垃圾百度 
-多吉搜索https://dogedoge.com/
-#
-GOOBE https://goobe.io/
-#
-秘迹搜索https://mijisou.com/
-#
-LESO乐搜https://www.leso.ml/
-#
-萌搜https://mengso.com/
-#
-Magi搜索https://magi.com
+* 多吉搜索https://dogedoge.com/
+* GOOBE https://goobe.io/
+* 秘迹搜索https://mijisou.com/
+* LESO乐搜https://www.leso.ml/
+* 萌搜https://mengso.com/
+* Magi搜索https://magi.com
 #
 #
 #
 ### 游戏商店
-#
-[gamebanana](https://gamebanana.com/)
-#
-[overwolf](https://www.overwolf.com/)
-#
-[steam](https://store.steampowered.com/app/550650/Black_Squad/)
-#
-[games](https://store.my.games/)
-#
-[lutris](https://lutris.net/games/)
-#
+* [gamebanana](https://gamebanana.com/)
+* [overwolf](https://www.overwolf.com/)
+* [steam](https://store.steampowered.com/app/550650/Black_Squad/)
+* [games](https://store.my.games/)
+* [lutris](https://lutris.net/games/)
 #
 #
 ## 录视频
+* [obs](https://obsproject.com/)
 #
-[obs](https://obsproject.com/)
 #
 ## 视频播放器
+* [mpv](https://mpv.io/)
+* [kmplayer](https://en.kmplayer.com/)
+* [PotPlayer](https://potplayer.daum.net/)
+* [jellyfin](https://jellyfin.org/)
 #
-[mpv](https://mpv.io/)
-#
-[kmplayer](https://en.kmplayer.com/)
-#
-[PotPlayer](https://potplayer.daum.net/)
-#
-[jellyfin](https://jellyfin.org/)
 #
 ## bt播放器
-#
-[Soda Player](https://www.sodaplayer.com/)
-#
-[powder.media](https://powder.media/)
-#
-[webtorrent](https://webtorrent.io/)
-#
-[在线服务器](https://github.com/XIU2/PeerflixServerZH)
-#
-[安卓](https://m.shouji.com.cn/down/174886.html)
+* [Soda Player](https://www.sodaplayer.com/)
+* [powder.media](https://powder.media/)
+* [webtorrent](https://webtorrent.io/)
+* [在线服务器](https://github.com/XIU2/PeerflixServerZH)
+* [安卓](https://m.shouji.com.cn/down/174886.html)
 #
 #
 ## 驱动更新
+* [Driver Booster Free](https://www.filehorse.com/download-driver-booster-free/)
 #
-[Driver Booster Free](https://www.filehorse.com/download-driver-booster-free/)
 #
 ## 杀毒软件
-#
-[malwarebytes](https://www.malwarebytes.com/)
-#
-[superantispyware](https://www.superantispyware.com/free-edition.html)
-#
-[bitdefender](https://www.bitdefender.com/solutions/free.html)
-#
-[comodo](https://www.comodo.com/?af=7639)
-#
-[ikarussecurity](https://www.ikarussecurity.com/en/sdks-and-apis/ikarus-scan-engine/)
-#
-[avast](https://www.avast.com/zh-cn/free-antivirus-download)
-#
-[avira](https://www.avira.com/zh-cn/free-antivirus)
-#
-安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
-#
-安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
+* [malwarebytes](https://www.malwarebytes.com/)
+* [superantispyware](https://www.superantispyware.com/free-edition.html)
+* [bitdefender](https://www.bitdefender.com/solutions/free.html)
+* [comodo](https://www.comodo.com/?af=7639)
+* [ikarussecurity](https://www.ikarussecurity.com/en/sdks-and-apis/ikarus-scan-engine/)
+* [avast](https://www.avast.com/zh-cn/free-antivirus-download)
+* [avira](https://www.avira.com/zh-cn/free-antivirus)
+* 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
+* 安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
 #
 #
 #
 #
 #
 ## 免费无限容量网盘github
-#
-上传文件大小限制2GB
-#
-不限速
-#
-注册要用手机号接收验证码
-#
-https://www.dogedoge.com/results?q=%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%9F%AD%E4%BF%A1
-#
-注册后创建，公有仓库，或私有仓库。
-#
-然后点Releases上传文件就可以。
-#
-视频类文件，建议用密码压缩后再上传。
-#
-建议使用标准的压缩软件，不使用标准的压缩软件压缩，会出现解压失败，文件就废了。
-#
-Android：ZArchiver 
-#
-Win10： 7-Zip
-#
-下载建议用多线程下载工具，
-#
-Win10：Neat Download Manager 1.2
-#
-Android：IDM+
+* 上传文件大小限制2GB
+* 不限速
+* 注册要用手机号接收验证码
+* https://www.dogedoge.com/results?q=%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%9F%AD%E4%BF%A1
+* 注册后创建，公有仓库，或私有仓库。
+* 然后点Releases上传文件就可以。
+* 视频类文件，建议用密码压缩后再上传。
+* 建议使用标准的压缩软件，不使用标准的压缩软件压缩，会出现解压失败，文件就废了。
+* Android：ZArchiver 
+* Win10： 7-Zip
+* 下载建议用多线程下载工具，
+* Win10：Neat Download Manager 1.2
+* Android：IDM+
 #
 ## 贵族网盘、https://www.gueizu.com/
 #
 #
 ## 临时网盘
-#
-文叔叔、https://www.wenshushu.cn/
-#
-奶牛快传、 https://cowtransfer.com/ 总共支持 2.0GB 大小，单次上传最多支持 6 个文件同时上传，下载速度快，上传简单，无需注册，无广告，支持设置分享链接密码！ 奶牛快传免费用户可以保存 7 天。
-#
-100G三个月临时网盘、https://degoo.com/
-#
-2G网盘、https://www.mailbigfile.com/
-#
-2GB空间、https://www.hightail.com/
-#
-最大尺寸 每个档案	网页：1GB / FTP：10GB、http://dl.free.fr/
-#
-300GB网盘、https://1fichier.com/
-#
-https://dropmeafile.com/
-#
-10G 12个月临时网盘、https://www.pcloud.com/
-#
-5G网盘、https://www.idrive.com/
+* 文叔叔、https://www.wenshushu.cn/
+* 奶牛快传、 https://cowtransfer.com/ 总共支持 2.0GB 大小，单次上传最多支持 6 个文件同时上传，下载速度快，上传简单，无需注册，无广告，支持设置分享链接密码！ 奶牛快传免费用户可以保存 7 天。
+* 100G三个月临时网盘、https://degoo.com/
+* 2G网盘、https://www.mailbigfile.com/
+* 2GB空间、https://www.hightail.com/
+* 最大尺寸 每个档案	网页：1GB / FTP：10GB、http://dl.free.fr/
+* 300GB网盘、https://1fichier.com/
+* https://dropmeafile.com/
+* 10G 12个月临时网盘、https://www.pcloud.com/
+* 5G网盘、https://www.idrive.com/
 #
 #
-
 #
