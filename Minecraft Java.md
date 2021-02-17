@@ -1,8 +1,8 @@
 []()
 # 
-`[此项目的参与指南](./Minecraft%20Java.md)`
+` [此项目的参与指南](./Minecraft%20Java.md) `
 #
-`[有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/discussions)``
+` [有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/discussions) `
 #
 #  Minecraft Java 导入地图教程  
 ![](map/1.jpg)
@@ -51,7 +51,7 @@
 * [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
 ## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
 #
-### 创建Minecraft服务器
+## 创建Minecraft服务器
 [cuberite](https://cuberite.org/)
 ### 导入地图
 * 把Novigrad改成你的地图文件夹名称
