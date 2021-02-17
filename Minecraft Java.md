@@ -1,4 +1,6 @@
 []()
+# 
+100. [此项目的参与指南](./Minecraft%20Java.md)
 #
 有什么问题留言我https://github.com/Pantyhose-X/Pantyhose-X/discussions
 #
@@ -32,7 +34,7 @@
   #
   [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) ## iOS版
   #
-  ##  另一个 安卓java版 
+  - ##  另一个 安卓java版 
   #
   1、下载 [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
   #
