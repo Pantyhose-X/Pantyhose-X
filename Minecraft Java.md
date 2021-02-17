@@ -1,6 +1,6 @@
 有什么问题留言我https://github.com/Pantyhose-X/Pantyhose-X/discussions
 
-#  Minecraft Java 导入地图教程
+#  === Minecraft Java 导入地图教程
   
   ![](map/1.jpg)
   1、下载安卓Minecraft Java版。[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
@@ -336,7 +336,7 @@ Android：IDM+
 ## 贵族网盘、https://www.gueizu.com/
 
 
-## 临时网盘
+ === 临时网盘 ===
 
 文叔叔、https://www.wenshushu.cn/
 
