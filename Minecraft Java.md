@@ -30,11 +30,9 @@
 [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  ''' iOS版 '''
 #
 ##  另一个 安卓java版 
-#
 * 1、下载 [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
 #
 ![](map/10.jpg)
-#
 ### 开始
 * 2、首先，你需要创建一个用户。 请在 `左侧导航栏` - `用户` - `添加新用户` 来创建一个用户
 * 3、其次，你需要下载Minecraft。 请在 `左侧导航栏` - `游戏列表` - `安装新游戏版本` 下载Minecraft游戏
