@@ -180,17 +180,17 @@ Minetest服务器连接教程
 Nane/password名称密码、、随便什么,名称密码都可以、然后点Connect
 再输入一次密码,必须相同、然后点Register and Join
 # 如何在单人游戏中设置特权？/grant singleplayer all 或/grant singleplayer（特权名称)
- /help 查看命令
-# /help all 根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考
-# /help privs 列出服务器上可能授予玩家的所有特权
-# /grantme all 给自己全部特权。
-# /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
-# /teleport 玩家名称 或者坐标/teleport (x,y,z)瞬间移动
-# /time 21:00 时间设置、
-# all     表示全部
-# fly     表示飞行
-# noclip  表示穿墙透视
-# fast    表示快速移动
+- /help 查看命令
+- /help all 根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考
+- /help privs 列出服务器上可能授予玩家的所有特权
+- /grantme all 给自己全部特权。
+- /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
+- /teleport 玩家名称 或者坐标/teleport (x,y,z)瞬间移动
+- /time 21:00 时间设置、
+- all     表示全部
+- fly     表示飞行
+- noclip  表示穿墙透视
+- fast    表示快速移动
 # 特权：https://wiki.minetest.net/Privileges/zh-hans
 # 服务器命令：https://wiki.minetest.net/Server_commands/zh-hans
 #
