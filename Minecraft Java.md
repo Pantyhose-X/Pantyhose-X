@@ -155,7 +155,9 @@ https://github.com/sprintingkiwi/pycraft_mod
 
 ### Minetest 教程
 Minetest服务器连接教程
-有的服务器不需要输入密码。。
+#
+有的服务器不需要输入密码。
+#
 Nane/password名称密码、、随便什么,名称密码都可以、然后点Connect
 再输入一次密码,必须相同、然后点Register and Join
 # 如何在单人游戏中设置特权？/grant singleplayer all 或/grant singleplayer（特权名称)
@@ -170,8 +172,8 @@ Nane/password名称密码、、随便什么,名称密码都可以、然后点Con
 # fly     表示飞行
 # noclip  表示穿墙透视
 # fast    表示快速移动
-# 指今：https://wiki.minetest.net/Privileges
-# 服务器指令：https://wiki.minetest.net/Server_commands
+# 特权：https://wiki.minetest.net/Privileges/zh-hans
+# 服务器命令：https://wiki.minetest.net/Server_commands/zh-hans
 
 
 #
