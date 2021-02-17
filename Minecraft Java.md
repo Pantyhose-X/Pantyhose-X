@@ -83,16 +83,15 @@
 #
 输入 /portal Novigrad
 #
-#
-#
-
 现在得手工走到建筑的位置：/tp 883 62 1310
-
+#
 把Novigrad改成你的地图文件夹名称
+#
   ## 地图导入说明 https://github.com/cuberite/cuberite/issues/5126#issuecomment-779821638
   #
  #
   管理服务器网站 localhost:8080
+  #
    ![](map/12.jpg)
   #
   ![](map/13.jpg)
@@ -115,33 +114,36 @@
   https://www.youtube.com/watch?v=zNfPAgXS1M0
   #
   https://www.youtube.com/watch?v=4Uuig3E8IXU
- 
-  
-  
-  
-  
+ #
+  #
+  #
+  #
+  #
 # 
   ## Minecraft Python 教程
   https://imgchr.com/album/BKW6K
   #
  地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
+ #
  ![](map/6.JPG)
-
+#
 ## Minecraft Python 书籍
+#
 https://www.wiley.com/en-gb/Adventures+In+-c-7732
+#
 https://www.wiley.com/WileyCDA/Section/id-823690.html
-
-
+#
+#
  #
   ## Minecraft 版本下载
   https://www.minebbs.com/resources/categories/55/
-  
+  #
   ## 我的 Minecraft 书签分享
-  
+  #
   [书签](https://github.com/Survivalwar/Pantyhose-X/releases/tag/bookmarks) 
   下载bookmarks.html
   导入浏览器或浏览器打开
-
+#
 # 我的世界论坛
 https://klpbbs.com/forum.php?mod=viewthread&tid=5123&page=1&extra=#pid60235
 #
@@ -152,21 +154,21 @@ http://bbs.clouddream.online/
 #
 #
 #
-
+#
 ![](map/17.jpg)
 ### Minetests是游戏盒。
-
+#
 已经有469个沙盒游戏了 https://content.minetest.net/packages/?type=game  
-
+#
 https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295fd
-
-
+#
+#
 ### 下载Minetest
 [https://www.minetest.net/](https://www.minetest.cn/)
-
+#
 ### Minetest Python 版
 https://github.com/sprintingkiwi/pycraft_mod
-
+#
 ### Minetest 教程
 Minetest服务器连接教程
 #
@@ -188,50 +190,50 @@ Nane/password名称密码、、随便什么,名称密码都可以、然后点Con
 # fast    表示快速移动
 # 特权：https://wiki.minetest.net/Privileges/zh-hans
 # 服务器命令：https://wiki.minetest.net/Server_commands/zh-hans
-
-
 #
 #
 #
 #
 #
-
+#
+#
+#
 ###    替代品
-
+#
 ##  翻译功能浏览器
-
+#
 PC   [Yandex](https://browser.yandex.com/)
-
+#
 安卓 [Yandex](https://m.downloadatoz.com/yandex-browser-with-protect/com.yandex.browser/)
-
+#
 安卓 [Via](https://viayoo.com/zh-cn/)
-
+#
 PC   [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
-
+#
 安卓 [kiwibrowser](https://kiwibrowser.com/)
-
+#
 安卓 [火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
-
+#
 PC 菜单很大很好   [Atom](https://browser.ru/)
-
-
-
+#
+#
+#
 ## 浏览器插件
-
+#
 https://www.gugeapps.net/
-
+#
 http://www.crx4.com/
-
+#
 https://chrome.zzzmh.cn/
-
+#
 https://www.crx4chrome.com/
-
-
-
+#
+#
+#
 []()
-
-
-
+#
+#
+#
 ##  种子bt下载
 https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
 
