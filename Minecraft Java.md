@@ -50,7 +50,8 @@
 * [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
 * [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
 ## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
-## [创建Minecraft服务器]
+#
+### 创建Minecraft服务器
 [cuberite](https://cuberite.org/)
 ### 导入地图
 * 把Novigrad改成你的地图文件夹名称
@@ -149,10 +150,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 #
-#
-#
-#
-###    替代品
+### 替代品
 #
 ##  翻译功能浏览器
 * PC [Yandex](https://browser.yandex.com/)
@@ -242,11 +240,11 @@ https://github.com/sprintingkiwi/pycraft_mod
 * 然后点Releases上传文件就可以。
 * 视频类文件，建议用密码压缩后再上传。
 * 建议使用标准的压缩软件，不使用标准的压缩软件压缩，会出现解压失败，文件就废了。
-* Android：ZArchiver 
-* Win10： 7-Zip
+* Android：`ZArchiver `
+* Win10： `7-Zip`
 * 下载建议用多线程下载工具，
-* Win10：Neat Download Manager 1.2
-* Android：IDM+
+* Win10：`Neat Download Manager 1.2`
+* Android：`IDM+`
 #
 ## 贵族网盘、https://www.gueizu.com/
 #
