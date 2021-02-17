@@ -26,8 +26,8 @@
 * 8、进入导入地图后，浮在空中什么都没有，你需要关闭飞行模式掉落到地面。
 #
 ![](map/4.jpg)
-* #
-[PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  '''iOS版
+#
+[PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  ''' iOS版 '''
 #
 ##  另一个 安卓java版 
 #
@@ -36,12 +36,12 @@
 ![](map/10.jpg)
 #
 ### 开始
-* 2. 首先，你需要创建一个用户。 请在 `左侧导航栏` - `用户` - `添加新用户` 来创建一个用户
-* 3. 其次，你需要下载Minecraft。 请在 `左侧导航栏` - `游戏列表` - `安装新游戏版本` 下载Minecraft游戏
+* 2、首先，你需要创建一个用户。 请在 `左侧导航栏` - `用户` - `添加新用户` 来创建一个用户
+* 3、其次，你需要下载Minecraft。 请在 `左侧导航栏` - `游戏列表` - `安装新游戏版本` 下载Minecraft游戏
 * 4、请在左侧导航栏中选择启动器设置并安装运行库。aarch64-20200928.tar.xz 或 aarch32-20200928.tar.xz
 [运行库下载](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
-* 5. 最后，你将要启动游戏。 请在`左侧导航栏` - `主页` 选择一个Minecraft版本并启动。
-* 6. 显示跳跃键
+* 5、最后，你将要启动游戏。 请在`左侧导航栏` - `主页` 选择一个Minecraft版本并启动。
+* 6、显示跳跃键
 #
 ![](map/11.jpg)
 #
@@ -49,16 +49,13 @@
 #
 #
 # 另一个安卓版 
- #
-  [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
- #
- ## 基于BoatApp的安卓版
- #
- [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
- #
- [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
- #
- [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
+#
+[MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
+#
+## 基于BoatApp的安卓版
+* [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
+* [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
+* [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
  #
  #
  ## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
