@@ -217,6 +217,10 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [安卓](https://m.shouji.com.cn/down/174886.html)
 #
 #
+##电脑垃圾清理
+* [Dism++](https://www.chuyu.me/zh/index.html)
+#
+
 ## 驱动更新
 * [Driver Booster Free](https://www.filehorse.com/download-driver-booster-free/)
 #
@@ -229,6 +233,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [ikarussecurity](https://www.ikarussecurity.com/en/sdks-and-apis/ikarus-scan-engine/)
 * [avast](https://www.avast.com/zh-cn/free-antivirus-download)
 * [avira](https://www.avira.com/zh-cn/free-antivirus)
+* [ZoneAlarm](https://www.zonealarm.com/software)
 * 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
 * 安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
 #
@@ -268,3 +273,11 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 #
+## Win10系统
+* [Snatch-Windows的剪贴板管理器](https://github.com/Idered/snatch)
+* [YUMI 通用多系统安装程序](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/)
+* [隔离沙箱](https://sandboxie-plus.com/Sandboxie/)
+* [资料下载](https://www.technipages.com/software-downloads)
+#
+[]()
+
