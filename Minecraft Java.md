@@ -1,27 +1,30 @@
+[]()
+#
 有什么问题留言我https://github.com/Pantyhose-X/Pantyhose-X/discussions
-
+#
 #  Minecraft Java 导入地图教程
-  
+  [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) iOS版
+  #
   ![](map/1.jpg)
   1、下载安卓Minecraft Java版。[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
-  
+  #
   ![](map/9.jpg)
-  
+  #
   2、打开PojavLauncher选择地图对于的版本、启动游戏。
   ![](map/2.jpg)
-  
+  #
   3、下载地图[planetminecraft](https://www.planetminecraft.com/project/novigrad-timelapse-download/) AISS的地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
-  
+  #
   4、下载、[Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
-  
+  #
   5、打开、Material Files 点击上面角落的┇  点击显示隐藏文件。
-  
+  #
   ![](map/3.jpg)
-  
+  #
   6、使用Material Files把下载好的地图解压到 内部存储 games/PojavLauncher/.minecraft/saves/
-  
+  #
   7、启动游戏、点击单人游戏、就可以看到你导入地图了。
-  
+  #
   8、进入导入地图后，在空中什么都没有，你需要关闭飞行模式掉落到地面。
   ![](map/4.jpg)
   
@@ -52,9 +55,15 @@
  
   [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
  #
+ ## 基于BoatApp的安卓版
+ [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
+ 
+ [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
  #
+ [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
+ 
  #
- ## Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
+ ## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
  #
  #
   
