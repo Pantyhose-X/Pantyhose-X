@@ -14,11 +14,9 @@
 * 2、打开PojavLauncher选择地图对于的版本、启动游戏。
 #
 ![](map/2.jpg)
-#
 * 3、下载地图[planetminecraft](https://www.planetminecraft.com/project/novigrad-timelapse-download/) AISS的地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
 * 4、下载、[Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
 * 5、打开、Material Files 点击上面角落的┇  点击显示隐藏文件。
-# 
 ![](map/3.jpg)
 # 
 * 6、使用Material Files把下载好的地图解压到 内部存储 games/PojavLauncher/.minecraft/saves/
@@ -27,7 +25,7 @@
 #
 ![](map/4.jpg)
 * #
-* [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  iOS版
+* [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  '''iOS版
 #
 ##  另一个 安卓java版 
 #
