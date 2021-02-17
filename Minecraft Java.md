@@ -217,8 +217,8 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [安卓](https://m.shouji.com.cn/down/174886.html)
 #
 #
-##电脑垃圾清理
-* [Dism++](https://www.chuyu.me/zh/index.html)
+## 电脑垃圾清理
+* [Dism++](https://www.chuyu.me/en/index.html)
 #
 
 ## 驱动更新
