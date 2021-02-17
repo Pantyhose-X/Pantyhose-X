@@ -2,8 +2,7 @@
 #
 有什么问题留言我https://github.com/Pantyhose-X/Pantyhose-X/discussions
 #
-#  Minecraft Java 导入地图教程
-  [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) iOS版
+#  Minecraft Java 导入地图教程  
   #
   ![](map/1.jpg)
   #
@@ -27,10 +26,11 @@
   #
   7、启动游戏、点击单人游戏、就可以看到你导入地图了。
   #
-  8、进入导入地图后，在空中什么都没有，你需要关闭飞行模式掉落到地面。
+  8、进入导入地图后，浮在空中什么都没有，你需要关闭飞行模式掉落到地面。
   #
   ![](map/4.jpg)
   #
+  [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) ## iOS版
   #
   ##  另一个 安卓java版 
   #
