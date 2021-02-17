@@ -14,9 +14,11 @@
 * 2、打开PojavLauncher选择地图对于的版本、启动游戏。
 #
 ![](map/2.jpg)
+#
 * 3、下载地图[planetminecraft](https://www.planetminecraft.com/project/novigrad-timelapse-download/) AISS的地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
 * 4、下载、[Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
 * 5、打开、Material Files 点击上面角落的┇  点击显示隐藏文件。
+#
 ![](map/3.jpg)
 # 
 * 6、使用Material Files把下载好的地图解压到 内部存储 games/PojavLauncher/.minecraft/saves/
@@ -25,31 +27,28 @@
 #
 ![](map/4.jpg)
 * #
-* [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  '''iOS版
+[PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)  '''iOS版
 #
 ##  另一个 安卓java版 
 #
-  1、下载 [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
-  #
- ![](map/10.jpg)
-  #
-  ### 开始
-2. 首先，你需要创建一个用户。 请在 `左侧导航栏` - `用户` - `添加新用户` 来创建一个用户
-3. 其次，你需要下载Minecraft。 请在 `左侧导航栏` - `游戏列表` - `安装新游戏版本` 下载Minecraft游戏
-  4、请在左侧导航栏中选择启动器设置并安装运行库。aarch64-20200928.tar.xz 或 aarch32-20200928.tar.xz
-  #
-  [运行库下载](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
- #  
- 5. 最后，你将要启动游戏。 请在`左侧导航栏` - `主页` 选择一个Minecraft版本并启动。
- #
- 6. 显示跳跃键
- #
- ![](map/11.jpg)
- #
- 7.地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
- #
- #
- # 另一个安卓版 
+* 1、下载 [MCinaBox](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
+#
+![](map/10.jpg)
+#
+### 开始
+* 2. 首先，你需要创建一个用户。 请在 `左侧导航栏` - `用户` - `添加新用户` 来创建一个用户
+* 3. 其次，你需要下载Minecraft。 请在 `左侧导航栏` - `游戏列表` - `安装新游戏版本` 下载Minecraft游戏
+* 4、请在左侧导航栏中选择启动器设置并安装运行库。aarch64-20200928.tar.xz 或 aarch32-20200928.tar.xz
+[运行库下载](https://github.com/AOF-Dev/MCinaBox/releases/tag/v0.1.4-p2)
+* 5. 最后，你将要启动游戏。 请在`左侧导航栏` - `主页` 选择一个Minecraft版本并启动。
+* 6. 显示跳跃键
+#
+![](map/11.jpg)
+#
+* 7.地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
+#
+#
+# 另一个安卓版 
  #
   [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
  #
