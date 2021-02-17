@@ -45,12 +45,10 @@
 #
 ![](map/11.jpg)
 #
-* 7.地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
-#
+* 7、地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
 #
 # 另一个安卓版 
-#
-[MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
+* [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
 #
 ## 基于BoatApp的安卓版
 * [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
