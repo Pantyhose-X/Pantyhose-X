@@ -308,5 +308,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 * 不玩游戏 解封
 * Windows Defender Firewall 高级设置 入站规则 出站规则 > 禁用规则
+#
+[我的阻止列表](https://github.com/zz1616611/aiss/releases/tag/Firewall)
 []()
 
