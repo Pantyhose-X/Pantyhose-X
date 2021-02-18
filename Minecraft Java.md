@@ -62,7 +62,7 @@
 ### 导入地图
 * 把Novigrad改成你的地图文件夹名称
 * 1、把地图下载并提取到你的Cuberite/文件夹。
-* 2、在settings.ini的[Worlds]下面添加World=Novigrad [WorldPaths] 下加 Novigrad=Novigrad
+* 2、在settings.ini的`[Worlds]`下面添加World=Novigrad` [WorldPaths]` 下加 Novigrad=Novigrad
 * 3、启动服务器，加入游戏，写/worlds 应该看得到Novigrad
 * 4、输入 /portal Novigrad
 * 5、现在得手工走到建筑的位置：/tp 883 62 1310
