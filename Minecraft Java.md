@@ -285,6 +285,11 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 #
+## DNS
+* https://github.com/zz1616611/aiss/blob/master/dns/dns-Copy.txt
+
+#
+#
 ## Win10系统
 * [Snatch-Windows的剪贴板管理器](https://github.com/Idered/snatch)
 * [YUMI 通用多系统安装程序](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/)
