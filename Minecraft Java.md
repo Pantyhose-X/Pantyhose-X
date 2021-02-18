@@ -291,5 +291,17 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [隔离沙箱](https://sandboxie-plus.com/Sandboxie/)
 * [资料下载](https://www.technipages.com/software-downloads)
 #
+#
+#
+## 应用所有游戏
+* 游戏服务器断线解决方案
+* 使用Windows防火墙可以屏蔽国家。游戏服务器
+* https://www.gregsitservices.com/blog/2016/02/blocking-unwanted-countries-with-windows-firewall/
+* win+r firewall.cpl 打开防火墙面板。   
+* 开启或关闭windows Defender防火墙。
+* 公共网络设置 阻止所有
+#
+* 不玩游戏 解封
+* Windows Defender Firewall 高级设置 入站规则 出站规则 > 禁用规则
 []()
 
