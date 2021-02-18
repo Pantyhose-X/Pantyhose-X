@@ -77,8 +77,9 @@
 ![](map/15.jp)
 #
 * 批量授权，进入服务器的“玩家”将被自动授予所有权限。
+* 需要授权才可以破坏方块。
 * https://github.com/cuberite/cuberite/issues/5126#issuecomment-780449476
-* 进入Web界面，并将“默认”组的权限更改为“ * ”
+* 进入Web界面，并将“默认”组的权限更改为“ * ” Add group
 ![](https://user-images.githubusercontent.com/44411062/108189081-a2d1b580-7110-11eb-80b4-c48077d33af8.jpg)
 #
 ![](https://user-images.githubusercontent.com/44411062/108189208-c5fc6500-7110-11eb-8500-7918a046320b.jpg)
