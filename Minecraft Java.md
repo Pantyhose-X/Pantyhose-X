@@ -77,8 +77,8 @@
 ![](map/15.jpg)
 #
 * 游戏模式	0表示生存模式，1表示创意模式，2表示冒险模式，3表示观众模式
-* 使用命令修改游戏模式  /gamemode 0
-* win10版要修改 webadmin.ini  才可以登陆localhost:8080
+* 使用命令修改游戏模式  /gamemode 1
+* Win10版要修改 webadmin.ini  才可以登陆localhost:8080
 #
 ![](map/16.jpg)
 #
