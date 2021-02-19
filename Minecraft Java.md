@@ -297,7 +297,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ## 网站拦截
-# AdGuard   uBlock Origin
+# AdGuard    -       uBlock Origin
 ![](/images/10.jpg)
 #
 * `||*.*^`拦截所有前缀，所有后缀、`*`表示所有、前缀，中缀、后缀
