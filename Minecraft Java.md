@@ -56,7 +56,8 @@
 * [Master Craft New MultiCraft Game](https://steprimo.com/android/us/app/com.blockcrafts.minicraftsimulator/Master-Craft-New-MultiCraft-Game/)
 #
 #
-## Win10 Java 版 HMCL是Minecraft启动器，支持Mod管理，游戏自定义，自动安装（Forge，LiteLoader和OptiFine），modpack创建，UI自定义等。
+## Win10 Java 版 
+* HMCL是Minecraft启动器，支持Mod管理，游戏自定义，自动安装（Forge，LiteLoader和OptiFine），modpack创建，UI自定义等。
 * [HMCL](https://hmcl.huangyuhui.net/)
 #
 ## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
