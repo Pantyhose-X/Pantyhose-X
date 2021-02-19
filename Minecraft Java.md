@@ -80,7 +80,7 @@
 #
 ![](map/13.jpg)
 #
-![](map/14.jpg)
+![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/14.jpg)
 #
 ![](map/15.jp)
 #
@@ -99,7 +99,7 @@
 * Win10版要修改 webadmin.ini  才可以登陆localhost:8080
 * Win10版要修改Cuberite文件夹`settings.ini`里的改`Authenticate=0`才可以连接服务器
 #
-![](map/16.jpg)
+![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/16.jpg)
 #
 ## P2P服务器
 * https://github.com/GlowstoneMC/Glowstone
@@ -113,7 +113,7 @@
 https://imgchr.com/album/BKW6K
 * 地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
 #
-![](map/6.JPG)
+![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/6.JPG)
 #
 ## Minecraft Python 书籍
 * https://www.wiley.com/en-gb/Adventures+In+-c-7732
@@ -136,7 +136,7 @@ https://www.minebbs.com/resources/categories/55/
 #
 #
 #
-![](map/17.jpg)
+![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/17.jpg)
 ### Minetests是游戏盒。
 * 已经有469个沙盒游戏了
 * https://content.minetest.net/packages/?type=game
