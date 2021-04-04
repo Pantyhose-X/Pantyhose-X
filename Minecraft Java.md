@@ -47,23 +47,12 @@
 ![](map/11.jpg)
 #
 * 7、地图导入把下好的地图复制到。MCinaBox/gamedir/saves/
-## 基于BoatApp的安卓版
-* [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
-* [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
-* [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
-## 其他安卓版 
-* [MultiCraft ― Build and Mine!](https://apkalso.com/multicraft-%E2%80%95-build-and-mine-%F0%9F%91%8D-1-15-1-1/)
-* [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
-* [Multicraft Block Craft Mini World 3D](https://steprimo.com/android/us/app/com.exploration.youcraft/Multicraft-Block-Craft-Mini-World-3D/)
-* [Master Craft New MultiCraft Game](https://steprimo.com/android/us/app/com.blockcrafts.minicraftsimulator/Master-Craft-New-MultiCraft-Game/)
 #
 #
-## Win10 Java 版 
-* HMCL是Minecraft启动器，支持Mod管理，游戏自定义，自动安装（Forge，LiteLoader和OptiFine），modpack创建，UI自定义等。
-* [HMCL](https://hmcl.huangyuhui.net/)
-* Epherome: 简单的Minecraft启动器
-* [Epherome](https://github.com/ResetPower/Epherome)
-##
+### 纹理包
+* https://www.planetminecraft.com/texture-packs/
+* https://www.planetminecraft.com/texture-pack/nova-photorealism-8192x-ultra-hd/   8192x不是PC别用，这个是8K纹理包
+#
 ### 光影
 * 安卓使用Minecraft光影  视频设置、渲染距离超过15手机会坏的
 * https://github.com/Open4Es
@@ -74,6 +63,24 @@
 * https://www.sonicether.com/seus/#downloads  
 * https://sildurs-shaders.github.io/
 * https://bitslablab.com/
+##
+#
+## 基于BoatApp的安卓版
+* [Boat_H2O2](https://github.com/NaCln4c1/Boat_H2O-v4)
+* [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
+* [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
+## 其他安卓版 
+* [MultiCraft ― Build and Mine!](https://apkalso.com/multicraft-%E2%80%95-build-and-mine-%F0%9F%91%8D-1-15-1-1/)
+* [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
+* [Multicraft Block Craft Mini World 3D](https://steprimo.com/android/us/app/com.exploration.youcraft/Multicraft-Block-Craft-Mini-World-3D/)
+* [Master Craft New MultiCraft Game](https://steprimo.com/android/us/app/com.blockcrafts.minicraftsimulator/Master-Craft-New-MultiCraft-Game/)
+#
+## Win10 Java 版 
+* HMCL是Minecraft启动器，支持Mod管理，游戏自定义，自动安装（Forge，LiteLoader和OptiFine），modpack创建，UI自定义等。
+* [HMCL](https://hmcl.huangyuhui.net/)
+* Epherome: 简单的Minecraft启动器
+* [Epherome](https://github.com/ResetPower/Epherome)
+#
 #
 ## 创建Minecraft服务器
 [cuberite](https://cuberite.org/)
@@ -129,7 +136,6 @@ https://imgchr.com/album/BKW6K
 ## Minecraft Python 书籍
 * https://www.wiley.com/en-gb/Adventures+In+-c-7732
 * https://www.wiley.com/WileyCDA/Section/id-823690.html
-#
 #
 ## Minecraft 版本下载
 https://www.minebbs.com/resources/categories/55/
