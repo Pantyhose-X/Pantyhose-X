@@ -70,8 +70,7 @@
 * [澪-b4.8](https://space.bilibili.com/35801833/dynamic)
 * [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
 ## 其他安卓版 
-* [MultiCraft ― Build and Mine!](https://apkalso.com/multicraft-%E2%80%95-build-and-mine-%F0%9F%91%8D-1-15-1-1/)
-* [MultiCraft](https://www.portalprogramas.com/en/multicraft-free-miner/android/)
+* [Minetest](https://www.minetest.net/)
 * [Multicraft Block Craft Mini World 3D](https://steprimo.com/android/us/app/com.exploration.youcraft/Multicraft-Block-Craft-Mini-World-3D/)
 * [Master Craft New MultiCraft Game](https://steprimo.com/android/us/app/com.blockcrafts.minicraftsimulator/Master-Craft-New-MultiCraft-Game/)
 #
