@@ -61,10 +61,19 @@
 ## Win10 Java 版 
 * HMCL是Minecraft启动器，支持Mod管理，游戏自定义，自动安装（Forge，LiteLoader和OptiFine），modpack创建，UI自定义等。
 * [HMCL](https://hmcl.huangyuhui.net/)
+* Epherome: 简单的Minecraft启动器
+* https://github.com/ResetPower/Epherome
+##
+### 光影
+* 安卓使用Minecraft光影  视频设置、渲染距离超过15手机会坏的
+* https://github.com/Open4Es
+* https://github.com/ptitSeb
+* https://www.bilibili.com/video/BV1q5411J73B
 #
-## 使用Minecraft光影  https://www.sonicether.com/seus/#downloads  视频设置、渲染距离超过15手机会坏的
-#
-#
+* PC使用Minecraft光影
+* https://www.sonicether.com/seus/#downloads  
+* https://sildurs-shaders.github.io/
+* https://bitslablab.com/
 #
 ## 创建Minecraft服务器
 [cuberite](https://cuberite.org/)
