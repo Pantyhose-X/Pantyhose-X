@@ -328,6 +328,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 ![](/images/9.jpg)
 #
+* `||*这里输入要拦截字.*^`拦截所有前缀，拦截字
 #
 #
 ## Win10系统
