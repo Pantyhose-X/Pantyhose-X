@@ -4,6 +4,8 @@
 # 
 [此项目的参与指南](./Minecraft%20Java.md)
 #
+[Minetest中文论坛](https://minetest.cosoc.cn/)
+#
 [有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/discussions) 手机乐园：AISS
 #
 [![视频](https://cdn.zecheriah.com/img/tps/site/skingallery.jpg)](https://www.bilibili.com/video/BV1Bv411a7Y5)
