@@ -4,7 +4,7 @@
 # 
 [此项目的参与指南](./Minecraft%20Java.md)
 #
-[Minetest中文论坛](https://minetest.cosoc.cn/)
+[Minetest中文论坛](https://minetest.cosoc.cn/t/aiss-64-1024-px/270)
 #
 [有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/discussions) 手机乐园：AISS
 #
