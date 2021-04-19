@@ -218,12 +218,12 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ##  垃圾百度 
+* LESO乐搜https://www.leso.ml/
+* Magi搜索https://magi.com
 * 多吉搜索https://dogedoge.com/
 * GOOBE https://goobe.io/
 * 秘迹搜索https://mijisou.com/
-* LESO乐搜https://www.leso.ml/
 * 萌搜https://mengso.com/
-* Magi搜索https://magi.com
 #
 #
 #
@@ -236,6 +236,9 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ## 录视频
+* [Capture Screen](https://github.com/MathewSachin/Captura)
+* [Screencast Capture Lite](https://github.com/cesarsouza/screencast-capture)
+* [VokscreenNG](https://github.com/vkohaupt/vokoscreenNG)
 * [obs](https://obsproject.com/)
 #
 #
