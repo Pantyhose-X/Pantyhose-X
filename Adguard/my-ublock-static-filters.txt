@@ -1,0 +1,166 @@
+! 2019/9/23 https://cn.bing.com
+cn.bing.com###hp_vidwrp
+
+! 2019/10/9 https://www.jianshu.com
+www.jianshu.com##._2oDcyf
+www.jianshu.com##div._1pUUKr:nth-of-type(1)
+www.jianshu.com##div._1pUUKr:nth-of-type(2)
+www.jianshu.com##._1KC9MV
+www.jianshu.com##._1Jdfvb
+www.jianshu.com###note-page-comment > .ouvJEz
+www.jianshu.com##section.ouvJEz:nth-of-type(2)
+
+! 30/10/2019 https://kkse.99tmpdz2.xyz
+kkse.99tmpdz2.xyz###container
+||kkse.99tmpdz2.xyz/static/tmp/99se/ob.dp.gif$image
+kkse.99tmpdz2.xyz##div.mobile-gg.exo-gg:nth-of-type(2) > div.self-gg:nth-of-type(1)
+
+! 19/11/2019 https://www.weiyun.com
+www.weiyun.com##.modal-mask
+www.weiyun.com##.announcement-notice.modal-show.modal
+
+! 26/12/2019 https://www.techradar.com
+www.techradar.com###cmp-container-id
+
+! 15/01/2020 https://www.sfgate.com
+www.sfgate.com##.f-NJD1R8-1-
+
+! 22/01/2020 https://papaly.com
+||papaly.com/assets/sample_screen-645bbb50d7d466c2bf8a98ee2fe5344678e70cbb8713f53e1c51ad3423cc9ad7.png$image
+
+! 2020-10-03 http://www.topicimages.com
+||www.topicimages.com/images/pixta/popup/intro-pop-px1000-20191031.jpg$image
+
+! 2020-10-05 https://www.ispionage.com
+www.ispionage.com###qtip-overlay > div
+www.ispionage.com###qtip-overlay
+www.ispionage.com##.topwrapper
+
+! 2020-10-14 http://www.bigo.tv
+www.bigo.tv###flashContent
+
+! 2020-10-16 https://www.youtube.com
+||consent.google.com/?continue=https://www.youtube.com/&origin=https://www.youtube.com&pc=yt&hl=en-GB&gl=NL&if=1&m=0&l=0&uxe=23934716$subdocument
+
+! 2020-10-17 https://wemp.app
+wemp.app##.el-dialog__body
+wemp.app##.limited-dialog.el-dialog__wrapper > .el-dialog--center.el-dialog > .el-dialog__header
+wemp.app##.limited-dialog.el-dialog__wrapper
+
+! 2020-11-22 https://freedomhouse.org
+||freedomhouse.org$image
+freedomhouse.org##.content-type-report_year.js-view-dom-id-333cb416da8e3d1d8e611631a7ae20f7693d300e3f2688769a57c0b7dec5e14e.view-display-id-content_list_card.view-id-content_list.view-content-list.view
+freedomhouse.org##.region-content-bottom.region
+freedomhouse.org##footer
+freedomhouse.org##.unfriendly-block.clearfix.ds-1col.paragraph--view-mode-default.paragraph--type-content-list.paragraph
+freedomhouse.org##.basic-h1
+freedomhouse.org##.basic-header-image-overlay
+||freedomhouse.org/sites/default/files/styles/400x280_fp_scale_crop_/public/2019-10/Getty-protestations-HK-china-freedom.jpg?h=f42fb4f4&itok=UJ5Xg6UC$image
+||freedomhouse.org/*freedom*$image
+||freedomhouse.org/sites/default/files/styles/400x280_fp_scale_crop_/public/2019-10/Getty-protestations-HK-china-freedom.jpg$image
+freedomhouse.org##.share-buttons-off.clearfix.ds-1col.node--view-mode-full.node--type-page.node
+freedomhouse.org###page-header
+freedomhouse.org##.share-buttons-on.clearfix.ds-1col.node--view-mode-full.node--type-page.node
+||http://home.ultrasurfing.com^
+||*ultrasurfing.com^
+||ultrasurfing.com^
+! 2020-11-22 freedomhouse.org
+||freedomhouse.org
+
+! 2020-12-01 https://alison.com
+alison.com##.login-modal
+
+! 2020-12-11 https://www.iflix.com
+||iflix-images.akamaized.net/5d7dcb11e4b08214d0dd383a-1582684103616_l_poster-16-9?transform=true&v=1&resize[0]=640&resize[1]=360&blur=40$image
+||iflix-images.akamaized.net/5d7dcb11e4b08214d0dd383a-1582684103616_l_poster-16-9?transform=true&v=1&resize[0]=640&resize[1]=360&blur=40$image
+www.iflix.com##.bAXBGt.PlaybackAlertstyled__CTAButton-sc-14idp4t-3.fvlsSm.Buttonstyled__Button-sc-1kiqbhj-0
+||iflix-images.akamaized.net/5d7dcb11e4b08214d0dd383a-1582684103616_l_poster-16-9?transform=true&v=1&resize[0]=640&resize[1]=360&blur=40$image
+www.iflix.com##.MMABN.PlaybackAlertstyled__TitleText-sc-14idp4t-1.gWUYBx.Textstyled__Text-sc-1ya4cro-0
+www.iflix.com##.biyPyD.PlaybackAlertstyled__SubTitleText-sc-14idp4t-2.gWUYBx.Textstyled__Text-sc-1ya4cro-0
+||iflix-images.akamaized.net/5d7dcb11e4b08214d0dd383a-1582684103616_l_poster-16-9?transform=true&v=1&resize[0]=640&resize[1]=360&blur=40$image
+||iflix-images.akamaized.net/5f447941e4b0a83e00a8da20-1598323010504_l_poster-16-9?transform=true&v=1&resize[0]=640&resize[1]=360&blur=40$image
+||iflix-images.akamaized.net/5f447941e4b0a83e00a8da20-1598323010504_l_poster-16-9?transform=true&v=1&resize[0]=640&resize[1]=360&blur=40$image
+||iflix-images.akamaized.net/preview/89d960be-0fa9-4ac9-a046-7eafa4786441.jpg?transform=true&v=1&withFallback=true&resize[0]=640&resize[1]=360&blur=40$image
+
+||qq.com
+||*qq.com
+
+! 2020-12-12 https://m.x4jdm.tv
+||m.xinxindm.com/xghh.gif$image
+||m.xinxindm.com/xghh.gif$image
+
+@@||camo.githubusercontent.com^
+! 2020-12-18 https://erotracks.nl
+erotracks.nl##.cookie > .container
+
+! 2020-12-18 https://www.similarweb.com
+www.similarweb.com##.u-textCenter
+
+! 2020-12-25 https://www.youtube.com
+www.youtube.com###dialog
+||www.gstatic.com/youtube/img/promos/growth/dmod_si_horizontal_ver1_240x400.png$image
+www.youtube.com##.opened
+||www.gstatic.com/youtube/img/promos/growth/dmod_si_horizontal_ver1_240x400.png$image
+
+
+! 2020-12-27 https://www.iflix.com
+||iflix-images.akamaized.net/59edd8c9e4b0db01fa604935-1582682162181_l_poster-16-9?transform=true&v=1&resize[0]=640&resize[1]=360&blur=40$image
+
+! 2020-12-27 http://www.collegerules.com
+www.collegerules.com###js-reg-container
+www.collegerules.com###js-reg
+||x-images4.bangbros.com/stfucollege/tour1/newstfu/video2.jpg$image
+||x-images4.bangbros.com/stfucollege/tour1/newstfu/video2.jpg$image
+
+! 2020-12-28 https://www.iflix.com
+||iflix-images.akamaized.net/preview/2c10d19c-6261-45ef-81c1-f984b346c78a.jpg?transform=true&v=1&withFallback=true&resize[0]=640&resize[1]=360&blur=40$image
+
+! 2020-12-28 https://www.google.com
+
+! 2021-01-01 https://gaana.com
+gaana.com##.overlay
+gaana.com##.clearfix.popup_content
+
+! 2021-01-01 https://wolnelektury.pl
+wolnelektury.pl###annoy-banner-20 > .annoy-banner-inner
+wolnelektury.pl##.annoy-banner_blackout.annoy-banner
+
+! 2021-01-15 https://floridasupercon2011.sched.com
+floridasupercon2011.sched.com###sched-overlay-ad
+
+! 2021-01-24 https://gaana.com
+gaana.com##.gdprClose.gdpr_tnc
+gaana.com##.clearfix.footerlink
+gaana.com##.noscroll.gdpr_blur.search-handle.container
+||*.myqcloud.com^
+||*yastatic.net^
+
+! 2021-02-17 https://www.instagram.com
+www.instagram.com##._Yhr4.RnEpo
+www.instagram.com##.o64aR.SCxLW
+
+! 2021-03-25 https://my.whisk.com
+my.whisk.com##.fsuEer.sc-oTbqq
+my.whisk.com##.ignore-scroll-lock.huATEn.sc-pBmid
+my.whisk.com##.drbbXh.sc-pRcHn.sc-AxmLO
+my.whisk.com##.fCHAbU.sc-paXsP
+my.whisk.com##.iggoHI.sc-pZBmh
+
+! 2021-03-29 https://www.immunitysec.com
+www.immunitysec.com###navigation_underlay
+
+! 2021-03-29 https://www.cs.arizona.edu
+www.cs.arizona.edu##.page.page-row-padding-bottom.page-row-expanded.page-row
+
+! 2021-04-01 https://www.pandalive.co.kr
+||icache.pandalive.co.kr/code:pandatv/web/play/web_need_login.png$image
+||icache.pandalive.co.kr/code:pandatv/web/play/ready.png$image
+||icache.pandalive.co.kr/code:pandatv/web/play/ready.png$image
+
+! 2021-04-02 https://www.golem.de
+www.golem.de###screen
+www.golem.de###grandwrapper
+
+! 2021-04-17 https://storyxpress.co
+storyxpress.co##.dohZvg.sc-uJMKN
+
