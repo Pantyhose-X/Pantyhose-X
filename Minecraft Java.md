@@ -73,8 +73,6 @@
 * [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
 ## 其他安卓版 
 * [Minetest](https://www.minetest.net/)
-* [Multicraft Block Craft Mini World 3D](https://steprimo.com/android/us/app/com.exploration.youcraft/Multicraft-Block-Craft-Mini-World-3D/)
-* [Master Craft New MultiCraft Game](https://steprimo.com/android/us/app/com.blockcrafts.minicraftsimulator/Master-Craft-New-MultiCraft-Game/)
 #
 ## Win10 Java 版 
 * HMCL是Minecraft启动器，支持Mod管理，游戏自定义，自动安装（Forge，LiteLoader和OptiFine），modpack创建，UI自定义等。
