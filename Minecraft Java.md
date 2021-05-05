@@ -230,6 +230,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [gamebanana](https://gamebanana.com/)
 * [overwolf](https://www.overwolf.com/)
 * [steam](https://store.steampowered.com/app/550650/Black_Squad/)
+* [playnite](https://playnite.link/)
 * [games](https://store.my.games/)
 * [lutris](https://lutris.net/games/)
 #
@@ -238,6 +239,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [Capture Screen](https://github.com/MathewSachin/Captura)
 * [Screencast Capture Lite](https://github.com/cesarsouza/screencast-capture)
 * [VokscreenNG](https://github.com/vkohaupt/vokoscreenNG)
+* [iFun Screen Recorder](https://recorder.iobit.com/)
 * [obs](https://obsproject.com/)
 #
 #
@@ -258,6 +260,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 ## 电脑垃圾清理
 * [Dism++](https://www.chuyu.me/en/index.html)
+* [Advanced SystemCare](https://www.iobit.com/en/advancedsystemcarefree.php)
 #
 
 ## 驱动更新
@@ -265,6 +268,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ## 杀毒软件
+* [IObit Malware Fighter](https://www.iobit.com/en/malware-fighter.php)
 * [malwarebytes](https://www.malwarebytes.com/)
 * [superantispyware](https://www.superantispyware.com/free-edition.html)
 * [bitdefender](https://www.bitdefender.com/solutions/free.html)
@@ -313,6 +317,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ## DNS
+* [ControlD](https://controld.com/)
 * https://github.com/zz1616611/aiss/blob/master/dns/dns-Copy.txt
 #
 #
