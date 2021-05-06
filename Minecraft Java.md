@@ -8,7 +8,7 @@
 #
 [有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/discussions) 手机乐园：AISS
 #
-[![视频](https://www.bilibili.com/video/BV1Bv411a7Y5)
+[![视频](https://cdn.zecheriah.com/img/tps/site/skingallery.jpg)](https://www.acfun.cn/v/ac26814316_2)
 #
 #  Minecraft Java 导入地图教程  
 ![](map/1.jpg)
