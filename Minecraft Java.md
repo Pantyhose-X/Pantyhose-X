@@ -144,6 +144,10 @@ https://www.minebbs.com/resources/categories/55/
 * 下载bookmarks.html
 * 导入浏览器或浏览器打开
 #
+# 我的世界纹理包制作
+* .minecraft\versions\1.12.2\     `1.12.2.jar` 直接解压缩
+* [Lospec](https://lospec.com/)
+* #
 # 我的世界论坛
 * https://www.fkgymc.com/
 * https://klpbbs.com/forum.php?mod=viewthread&tid=5123&page=1&extra=#pid60235
