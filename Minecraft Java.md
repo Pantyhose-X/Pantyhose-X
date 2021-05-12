@@ -228,7 +228,12 @@ https://github.com/sprintingkiwi/pycraft_mod
 * 秘迹搜索https://mijisou.com/
 * 萌搜https://mengso.com/
 #
-#
+#网络加速 修改mtu
+* `netsh interface ipv4 show interfaces`   查看mtu
+`netsh interface ipv4 set subinterface "ethernet" mtu=9001 store=persistent`     （ethernet 你的网络适配器名称 store=persistent 永久 store=active 临时）  
+* [mtu](https://support.microsoft.com/zh-cn/topic/%E4%B8%BA-mtu-%E5%A4%A7%E5%B0%8F%E4%BD%8E%E4%BA%8E-576-%E7%9A%84-wan-%E9%93%BE%E6%8E%A5%E6%8E%A8%E8%8D%90%E7%9A%84-tcp-ip-%E8%AE%BE%E7%BD%AE-2312050e-2a1b-1e89-94a1-b2868afa436f)
+* https://www.cisco.com/c/zh_cn/support/docs/ip/generic-routing-encapsulation-gre/25885-pmtud-ipfrag.html
+
 #
 ### 游戏商店
 * [gamebanana](https://gamebanana.com/)
