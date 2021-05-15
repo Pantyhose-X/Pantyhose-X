@@ -73,6 +73,7 @@
 * [Boat Co2](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)
 ## 其他安卓版 
 * [Minetest](https://www.minetest.net/)
+*  [Minetest中文论坛](https://minetest.cosoc.cn/)
 #
 ## Win10 Java 版 
 * HMCL是Minecraft启动器，支持Mod管理，游戏自定义，自动安装（Forge，LiteLoader和OptiFine），modpack创建，UI自定义等。
@@ -158,7 +159,7 @@ https://www.minebbs.com/resources/categories/55/
 #
 #
 ![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/17.jpg)
-### Minetests是游戏盒。 [Minetest中文论坛](https://minetest.cosoc.cn/)
+### Minetests是游戏盒。
 * 已经有469个沙盒游戏了
 * https://content.minetest.net/packages/?type=game
 * https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295fd
