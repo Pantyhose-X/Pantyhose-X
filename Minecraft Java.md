@@ -221,6 +221,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ##  垃圾百度 
+* [qmamu](https://qmamu.com/)
 * LESO乐搜https://www.leso.ml/
 * Magi搜索https://magi.com
 * 多吉搜索https://dogedoge.com/
