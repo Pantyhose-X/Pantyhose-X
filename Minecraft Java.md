@@ -158,7 +158,7 @@ https://www.minebbs.com/resources/categories/55/
 #
 #
 ![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/17.jpg)
-### Minetests是游戏盒。
+### Minetests是游戏盒。 [Minetest中文论坛](https://minetest.cosoc.cn/)
 * 已经有469个沙盒游戏了
 * https://content.minetest.net/packages/?type=game
 * https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295fd
