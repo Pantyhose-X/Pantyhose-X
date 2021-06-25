@@ -1,11 +1,10 @@
-cn.bing.com
-.bing.com
-baidu.com
 ||qq.*^
 ||*.qq.*^
-||10.11.0.2*^
 ||myqcloud.com
+baidu.com
+cn.bing.com
 ||yastatic.net
+||10.11.0.2:*^
 freedomhouse.org
 ultrasurfing.com
 
