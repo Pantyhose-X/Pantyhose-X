@@ -1,6 +1,7 @@
 []()
 #
 `hello`
+## `Minecraft Java`
 # 
 [此项目的参与指南](./Minecraft%20Java.md)
 #
