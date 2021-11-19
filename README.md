@@ -223,13 +223,24 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ##  垃圾百度 
+* [ecosia](https://www.ecosia.org/)
+* [ekoru](https://www.ekoru.org/)
+* [auone.jp](https://portal.auone.jp/)
+* [gigablast](https://www.gigablast.com/)
+* [so-net.ne.jp](https://www.so-net.ne.jp/)
+* [anoox](https://www.anoox.com/index.php)
+* [ellpedia](https://en.ellpedia.com/search)
+* [search](https://www.search.com/)
+* [izito](https://www.izito.com/)
+* [info](https://www.info.com/)
 * [qmamu](https://qmamu.com/)
-* LESO乐搜https://www.leso.ml/
-* Magi搜索https://magi.com
-* 多吉搜索https://dogedoge.com/
-* GOOBE https://goobe.io/
-* 秘迹搜索https://mijisou.com/
-* 萌搜https://mengso.com/
+* [myway](https://hp.myway.com/)
+* [mywebsearch](https://hp.mywebsearch.com/)
+* [GFSOSO.ME](http://gfsoso.me)
+* [LESO乐搜](https://leso.bar/)
+* [Magi搜索](https://magi.com)
+* [萌搜](https://mengso.com/)
+* [GOOBE](https://goobe.io/)
 #
 #网络加速 修改mtu
 * `netsh interface ipv4 show interfaces`   查看mtu
