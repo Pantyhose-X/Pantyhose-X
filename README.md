@@ -301,17 +301,55 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [avira](https://www.avira.com/zh-cn/free-antivirus)
 * [ZoneAlarm](https://www.zonealarm.com/software)
 * 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
+* 安卓[Sophos Intercept X for Mobile](https://apkpure.com/sophos-intercept-x-for-mobile/com.sophos.smsec)
 * 安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
+* 在线[hybrid](https://hybrid-analysis.com/)
+* 在线[virustotal](https://www.virustotal.com/gui/home/upload)
+* 在线[joesandbox](https://www.joesandbox.com/#windows)
+* 在线[ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
+* 在线[opswat](https://metadefender.opswat.com/)
 #
 #
 #
+## 输入法 
+* [启程输入法](https://soime.cn/)
+* [自然輸入法](https://www.goingpro.me/)
+* [影子输入法](https://www.autoahk.com/archives/15117)
+* [小狼毫](https://github.com/rime/weasel)
+* 安卓[PlayKeyboard](https://apkpure.com/playkeyboard-hundreds-of-themes-just-for-you/kr.bitbyte.playkeyboard)
+* 安卓[FlorisBoard](https://github.com/florisboard/florisboard)
+* 安卓[AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
+* 安卓[OpenBoard](https://github.com/dslul/openboard)
+* 安卓[Gboard](https://apkpure.com/gboard-the-google-keyboard/com.google.android.inputmethod.latin)
+* 安卓[Typewise](https://apkpure.com/typewise-keyboard-i/ch.icoaching.typewise)
+* 安卓[iTranslate Keyboard](https://apkpure.com/itranslate-keyboard/com.itranslate.keyboard.translator.android)
+* 安卓[KingKeyboard](https://github.com/jenly1314/KingKeyboard)
+* 剪贴板[Clip-Stack](https://github.com/heruoxin/Clip-Stack)
 #
 #
+## 相机
+* [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera)
+* [Open Camera](https://apkpure.com/open-camera/net.sourceforge.opencamera)
+* 禁止相机[NoCam Camera Blocker](https://apkpure.com/nocam-camera-blocker/mandarin.camerablocker)
+* 禁止相机[com.ownzordage.chrx.lenscap](https://www.coolapk.com/apk/com.ownzordage.chrx.lenscap)
+#
+#
+## 文件管理器
+* [mixplorer](http://mixplorer.com/)
+* [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
+* [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager)
+* [Material Files](https://github.com/zhanghai/MaterialFiles)
+* [FreeCommander XE](https://freecommander.com/en/summary/)
+* [Explorer++](https://explorerplusplus.com/)
+* [BetterExplorer](https://gainedge.org/better-explorer/)
+* [file explorer](https://files.community/)
+* [everything](https://voidtools.com)
+* [Listary](https://www.listary.com)
 ## 免费无限容量网盘github
 * 上传文件大小限制2GB
 * 不限速
 * 注册要用手机号接收验证码
-* https://www.dogedoge.com/results?q=%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%9F%AD%E4%BF%A1
+* https://www.ecosia.org/search?q=%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%9F%AD%E4%BF%A1
 * 注册后创建，公有仓库，或私有仓库。
 * 然后点Releases上传文件就可以。
 * 视频类文件，建议用密码压缩后再上传。
