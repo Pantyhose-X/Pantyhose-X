@@ -300,14 +300,15 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [avast](https://www.avast.com/zh-cn/free-antivirus-download)
 * [avira](https://www.avira.com/zh-cn/free-antivirus)
 * [ZoneAlarm](https://www.zonealarm.com/software)
-* 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
-* 安卓[Sophos Intercept X for Mobile](https://apkpure.com/sophos-intercept-x-for-mobile/com.sophos.smsec)
-* 安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
 * 在线[hybrid](https://hybrid-analysis.com/)
 * 在线[virustotal](https://www.virustotal.com/gui/home/upload)
 * 在线[joesandbox](https://www.joesandbox.com/#windows)
 * 在线[ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
 * 在线[opswat](https://metadefender.opswat.com/)
+* 在线[nomoreransom](https://www.nomoreransom.org/en/index.html)
+* 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
+* 安卓[Sophos Intercept X for Mobile](https://apkpure.com/sophos-intercept-x-for-mobile/com.sophos.smsec)
+* 安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
 #
 #
 #
@@ -335,16 +336,18 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ## 文件管理器
-* [mixplorer](http://mixplorer.com/)
-* [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
-* [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager)
-* [Material Files](https://github.com/zhanghai/MaterialFiles)
+* 安卓[mixplorer](http://mixplorer.com/)
+* 安卓[Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
+* 安卓[Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager)
+* 安卓[Material Files](https://github.com/zhanghai/MaterialFiles)
 * [FreeCommander XE](https://freecommander.com/en/summary/)
 * [Explorer++](https://explorerplusplus.com/)
 * [BetterExplorer](https://gainedge.org/better-explorer/)
 * [file explorer](https://files.community/)
 * [everything](https://voidtools.com)
 * [Listary](https://www.listary.com)
+#
+#
 ## 免费无限容量网盘github
 * 上传文件大小限制2GB
 * 不限速
