@@ -307,8 +307,8 @@ https://github.com/sprintingkiwi/pycraft_mod
 * 在线[opswat](https://metadefender.opswat.com/)
 * 在线[nomoreransom](https://www.nomoreransom.org/en/index.html)
 * 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
-* 安卓[Sophos Intercept X for Mobile](https://apkpure.com/sophos-intercept-x-for-mobile/com.sophos.smsec)
 * 安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
+# 
 #
 #
 #
