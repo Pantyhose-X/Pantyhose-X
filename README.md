@@ -340,6 +340,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [xTorrent](https://apkpure.com/xtorrent-torrent-video-player/com.gamemalt.streamtorrentvideos)
 * [TorrentTube](https://apkpure.com/torrenttube-torrent-streamer/com.victoriya.tortube)
 * [TorrDroid](https://apkpure.com/torrdroid-torrent-downloader/intelligems.torrdroid)
+* [闪电下载 无视资源审查](https://www.423down.com/9138.html)
 #
 #
 ## 电脑垃圾清理
