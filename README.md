@@ -205,7 +205,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 ##  翻译功能浏览器
 * PC [Yandex](https://browser.yandex.com/)
 * 安卓 [Yandex](https://m.downloadatoz.com/yandex-browser-with-protect/com.yandex.browser/)
-* 安卓 [Via](https://viayoo.com/zh-cn/)
+* 安卓 [mark.via.gp 4.2.3](https://apkpure.com/via-browser-fast-light-geek-best-choice/mark.via.gp/versions)
 * PC [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
 * 安卓 [kiwibrowser](https://kiwibrowser.com/)
 * 安卓 [火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
