@@ -277,7 +277,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [sketchub](https://sketchub.in/)
 * [https://palmplaystore.com/](https://palmplaystore.com/)
 * [Mitch](https://f-droid.org/en/packages/ua.gardenapple.itchupdater/)
-#使用vpn才能打开
+# 使用vpn才能打开
 * [phoneky](https://phoneky.com/)
 * [dmm games](https://games.dmm.com/en/)
 * [APKMirror](https://f-droid.org/en/packages/taco.apkmirror/)
