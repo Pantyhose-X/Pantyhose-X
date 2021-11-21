@@ -200,6 +200,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 ### 替代品
 #
 # vpn游戏加速器 
+* [thundervpn](http://thundervpn.com/)
 * [com.noe.vp](http://www.notonearth.net/)
 #
 ##  翻译功能浏览器
