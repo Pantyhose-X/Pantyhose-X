@@ -261,7 +261,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 
 #
 #
-### 应用商店
+### 应用商店 搜索vpn
 * [AuroraOSS](https://auroraoss.com/download/)
 * [apkpure](https://apkpure.com)
 * [Droid-ify](https://github.com/Iamlooker/Droid-ify)
@@ -277,7 +277,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [sketchub](https://sketchub.in/)
 * [https://palmplaystore.com/](https://palmplaystore.com/)
 * [Mitch](https://f-droid.org/en/packages/ua.gardenapple.itchupdater/)
-#
+#使用vpn才能打开
 * [phoneky](https://phoneky.com/)
 * [dmm games](https://games.dmm.com/en/)
 * [APKMirror](https://f-droid.org/en/packages/taco.apkmirror/)
@@ -303,12 +303,14 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ### 游戏商店
+* [itch](https://itch.io/)
 * [gamebanana](https://gamebanana.com/)
 * [overwolf](https://www.overwolf.com/)
 * [steam](https://store.steampowered.com/app/550650/Black_Squad/)
 * [playnite](https://playnite.link/)
 * [games](https://store.my.games/)
 * [lutris](https://lutris.net/games/)
+* [蘑菇下载器](http://www.wbini.com/)
 #
 #
 ## 录视频
@@ -331,7 +333,13 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [powder.media](https://powder.media/)
 * [webtorrent](https://webtorrent.io/)
 * [在线服务器](https://github.com/XIU2/PeerflixServerZH)
-* [安卓](https://m.shouji.com.cn/down/174886.html)
+* [BitLord](https://apkpure.com/bitlord-torrent-streamer-and-downloader/com.houseoflife.bitlord)
+* [FrostWire](https://www.frostwire.com/)
+* [Magnet Torrent Player](https://apkpure.com/magnet-torrent-player/com.iiplayer.sunplayer)
+* [Amnis](https://apkpure.com/amnis-torrent-player/com.amnis)
+* [xTorrent](https://apkpure.com/xtorrent-torrent-video-player/com.gamemalt.streamtorrentvideos)
+* [TorrentTube](https://apkpure.com/torrenttube-torrent-streamer/com.victoriya.tortube)
+* [TorrDroid](https://apkpure.com/torrdroid-torrent-downloader/intelligems.torrdroid)
 #
 #
 ## 电脑垃圾清理
