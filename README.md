@@ -202,6 +202,8 @@ https://github.com/sprintingkiwi/pycraft_mod
 # vpn游戏加速器 
 * [thundervpn](http://thundervpn.com/)
 * [com.noe.vp](http://www.notonearth.net/)
+* vpn浏览器 [puffin](https://www.puffin.com/)
+* vpn浏览器 [opera](https://www.opera.com/download)
 #
 ##  翻译功能浏览器
 * PC [Yandex](https://browser.yandex.com/)
