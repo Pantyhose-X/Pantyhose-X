@@ -260,6 +260,42 @@ https://github.com/sprintingkiwi/pycraft_mod
 * https://www.cisco.com/c/zh_cn/support/docs/ip/generic-routing-encapsulation-gre/25885-pmtud-ipfrag.html
 
 #
+#
+### 应用商店
+* [AuroraOSS](https://auroraoss.com/download/)
+* [apkpure](https://apkpure.com)
+* [Droid-ify](https://github.com/Iamlooker/Droid-ify)
+* [F-Droid Classic](https://f-droid.org/en/packages/eu.bubu1.fdroidclassic/)
+* [SkyDroid](https://github.com/redsolver/skydroid)
+* [M-Droid](https://github.com/SkyzohKey/M-Droid)
+* [G-Droid](https://f-droid.org/en/packages/org.gdroid.gdroid/)
+* [Foxy Droid](https://github.com/kitsunyan/foxy-droid)
+* [appteka](https://appteka.store/)
+* [NetHunter App Store](https://store.nethunter.com/)
+* [appvn](https://appvn.com/android)
+* [slideme](http://slideme.org/)
+* [sketchub](https://sketchub.in/)
+* [https://palmplaystore.com/](https://palmplaystore.com/)
+* [Mitch](https://f-droid.org/en/packages/ua.gardenapple.itchupdater/)
+* []()
+* []()
+* [dmm games](https://games.dmm.com/en/)
+* [APKMirror](https://f-droid.org/en/packages/taco.apkmirror/)
+* [aptoide](https://www.aptoide.com/)
+* [phoneky](https://phoneky.com/)
+* [uptodown](https://en.uptodown.com/android)
+* [원스토어](https://m.onestore.co.kr/mobilepoc/main/main.omp)
+* [App分享](https://appshare.muge.info/)
+* [happymod](https://happymod.com/)
+* [blackmod](https://blackmod.net/blackmarket/)
+* [AtoZ Downloader](https://aio.downloadatoz.com/)
+* []()
+* [getjar](https://www.getjar.com/)
+* []()
+* [bazaar](https://cafebazaar.ir/app)
+* [myket](https://myket.ir/?lang=en)
+
+
 ### 游戏商店
 * [gamebanana](https://gamebanana.com/)
 * [overwolf](https://www.overwolf.com/)
