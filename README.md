@@ -199,6 +199,9 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 ### 替代品
 #
+# vpn游戏加速器 
+* [com.noe.vp](http://www.notonearth.net/)
+#
 ##  翻译功能浏览器
 * PC [Yandex](https://browser.yandex.com/)
 * 安卓 [Yandex](https://m.downloadatoz.com/yandex-browser-with-protect/com.yandex.browser/)
@@ -241,6 +244,14 @@ https://github.com/sprintingkiwi/pycraft_mod
 * [Magi搜索](https://magi.com)
 * [萌搜](https://mengso.com/)
 * [GOOBE](https://goobe.io/)
+#
+#
+#护眼蓝光滤镜
+* 安卓[Twilight](https://apkpure.com/twilight-blue-light-filter/com.urbandroid.lux)
+* Windows 10[LightBulb](https://github.com/Tyrrrz/LightBulb)
+* Linux[Redshift](https://github.com/jonls/redshift)
+#
+#
 #
 #网络加速 修改mtu
 * `netsh interface ipv4 show interfaces`   查看mtu
