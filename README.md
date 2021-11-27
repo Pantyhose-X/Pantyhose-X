@@ -5,13 +5,14 @@
 # 
 [此项目的参与指南](./Minecraft%20Java.md)
 #
-[Minetest中文论坛](https://minetest.cosoc.cn/t/aiss-64-1024-px/270) 我使用的125个Minetest模组集成包.[mods](https://minetest.cosoc.cn/t/aiss-100-mod/351)
+[Minetest中文论坛](https://minetest.cosoc.cn/t/aiss-64-1024-px/270) 
+- 我使用的125个Minetest模组集成包[mods](https://minetest.cosoc.cn/t/aiss-100-mod/351)
 .[将Minecraft地图转换为Minetest世界](https://minetest.cosoc.cn/t/minecraft-minetest-windows-10/292)
 #
 [有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/issues) 
 #
 [minetest自定义人物模型](https://minetest.cosoc.cn/t/topic/280)
-[![视频](https://cdn.zecheriah.com/img/tps/site/skingallery.jpg)](https://www.acfun.cn/v/ac26814316_2)
+[![minetest视频](https://www.bilibili.com/video/BV1Z54y1a7e4)
 #
 #
 ![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/17.jpg)
@@ -49,8 +50,7 @@ https://github.com/sprintingkiwi/pycraft_mod
 # 特权：https://wiki.minetest.net/Privileges/zh-hans
 # 服务器命令：https://wiki.minetest.net/Server_commands/zh-hans
 #
-#
-#
+![](https://raw.githubusercontent.com/Pantyhose-X/AISS_textures/main/AISS/5.JPG)
 #
 #
 #  Minecraft Java 导入地图教程  
@@ -458,7 +458,7 @@ https://www.minebbs.com/resources/categories/55/
 #
 #
 ## 网站拦截
-[AdGuard](https://github.com/Pantyhose-X/Pantyhose-X/tree/main/Adguard)    和      .[uBlock Origin](https://github.com/Pantyhose-X/Pantyhose-X/tree/main/Adguard)
+[AdGuard](https://github.com/Pantyhose-X/Pantyhose-X/tree/main/Adguard)    和      [uBlock Origin](https://github.com/Pantyhose-X/Pantyhose-X/tree/main/Adguard)
 #
 * `||*这里输入要拦截字*^`拦截所有前缀，所有后缀、`*`表示所有、前缀，中缀、后缀
 ![](/images/7.jpg)
