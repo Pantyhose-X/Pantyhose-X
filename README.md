@@ -5,9 +5,52 @@
 # 
 [此项目的参与指南](./Minecraft%20Java.md)
 #
-[Minetest中文论坛](https://minetest.cosoc.cn/t/aiss-64-1024-px/270)
+[Minetest中文论坛](https://minetest.cosoc.cn/t/aiss-64-1024-px/270) 我使用的125个Minetest模组集成包.[mods](https://minetest.cosoc.cn/t/aiss-100-mod/351)
+.[将Minecraft地图转换为Minetest世界](https://minetest.cosoc.cn/t/minecraft-minetest-windows-10/292)
 #
-[有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/discussions) 手机乐园：AISS
+[有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/issues) 
+#
+#
+#
+#
+![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/17.jpg)
+### Minetests是游戏盒。
+* 已经有469个沙盒游戏了
+* https://content.minetest.net/packages/?type=game
+* https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295fd
+#
+#
+### 下载Minetest
+[https://www.minetest.net/](https://www.minetest.cn/)
+#
+### Minetest Python 版
+https://github.com/sprintingkiwi/pycraft_mod
+#
+### Minetest 教程
+* Minetest服务器连接教程
+* 有的服务器不需要输入密码。
+* Nane/password名称密码、、随便什么,名称密码都可以、然后点Connect
+* 再输入一次密码,必须相同、然后点Register and Join
+* #
+* #
+# 如何在单人游戏中设置特权？/grant singleplayer all 或/grant singleplayer（特权名称)
+* /help 查看命令
+* /help all 根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考
+* /help privs 列出服务器上可能授予玩家的所有特权
+* /grantme all 给自己全部特权。
+* /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
+* /teleport 玩家名称 或者坐标/teleport (x,y,z)瞬间移动
+* /time 21:00 时间设置、
+* all     表示全部
+* fly     表示飞行
+* noclip  表示穿墙透视
+* fast    表示快速移动
+# 特权：https://wiki.minetest.net/Privileges/zh-hans
+# 服务器命令：https://wiki.minetest.net/Server_commands/zh-hans
+#
+#
+#
+#
 #
 [![视频](https://cdn.zecheriah.com/img/tps/site/skingallery.jpg)](https://www.acfun.cn/v/ac26814316_2)
 #
@@ -158,41 +201,6 @@ https://www.minebbs.com/resources/categories/55/
 #
 #
 #
-#
-![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/17.jpg)
-### Minetests是游戏盒。
-* 已经有469个沙盒游戏了
-* https://content.minetest.net/packages/?type=game
-* https://forum.minetest.net/viewforum.php?f=48&sid=b18dce802f41feb1a13e8d788c1295fd
-#
-#
-### 下载Minetest
-[https://www.minetest.net/](https://www.minetest.cn/)
-#
-### Minetest Python 版
-https://github.com/sprintingkiwi/pycraft_mod
-#
-### Minetest 教程
-* Minetest服务器连接教程
-* 有的服务器不需要输入密码。
-* Nane/password名称密码、、随便什么,名称密码都可以、然后点Connect
-* 再输入一次密码,必须相同、然后点Register and Join
-* #
-* #
-# 如何在单人游戏中设置特权？/grant singleplayer all 或/grant singleplayer（特权名称)
-* /help 查看命令
-* /help all 根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考
-* /help privs 列出服务器上可能授予玩家的所有特权
-* /grantme all 给自己全部特权。
-* /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
-* /teleport 玩家名称 或者坐标/teleport (x,y,z)瞬间移动
-* /time 21:00 时间设置、
-* all     表示全部
-* fly     表示飞行
-* noclip  表示穿墙透视
-* fast    表示快速移动
-# 特权：https://wiki.minetest.net/Privileges/zh-hans
-# 服务器命令：https://wiki.minetest.net/Server_commands/zh-hans
 #
 #
 #
