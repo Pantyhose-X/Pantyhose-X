@@ -451,22 +451,20 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 ## 网站拦截
-# AdGuard    和      uBlock Origin
+[AdGuard](https://github.com/Pantyhose-X/Pantyhose-X/tree/main/Adguard)    和      .[uBlock Origin](https://github.com/Pantyhose-X/Pantyhose-X/tree/main/Adguard)
 #
-* `||*.这里输入要拦截字*.*^`拦截所有前缀，所有后缀、`*`表示所有、前缀，中缀、后缀
+* `||*这里输入要拦截字*^`拦截所有前缀，所有后缀、`*`表示所有、前缀，中缀、后缀
 ![](/images/7.jpg)
 #
-* `||这里输入要拦截字.*^`只拦截后缀
-![](/images/8.jpg)
+* `||这里输入ip.*^` 拦截ip范围
+* ![](/images/8.jpg)
 #
-* `||*-*这里输入要拦截字.*^` 拦截特殊 `-` 所有前缀、`-`可以在前面、 可以根据网站链接使用的，符号换成对应的
-* ![](/images/9.jpg)
-#
-* `||这里输入要拦截字*-*.*^` 拦截特殊 `-` 所有后缀、`-`可以在后面、可以根据网站链接使用的，符号换成对应的
-![](/images/10.jpg)
-#
-* `||*这里输入要拦截字.*^`拦截所有前缀，拦截字
+* `||*.这里输入要拦截字^`拦截所有前缀
 * ![](/images/100.jpg)
+#
+* `||这里输入要拦截字.*^`只拦截后缀
+![](/images/9.jpg)
+#
 #
 #
 ## Win10系统
