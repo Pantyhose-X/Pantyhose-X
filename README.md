@@ -10,7 +10,8 @@
 #
 [有什么问题留言我](https://github.com/Pantyhose-X/Pantyhose-X/issues) 
 #
-#
+[minetest自定义人物模型](https://minetest.cosoc.cn/t/topic/280)
+[![视频](https://cdn.zecheriah.com/img/tps/site/skingallery.jpg)](https://www.acfun.cn/v/ac26814316_2)
 #
 #
 ![](https://raw.githubusercontent.com/Pantyhose-X/Pantyhose-X/main/map/17.jpg)
@@ -51,8 +52,6 @@ https://github.com/sprintingkiwi/pycraft_mod
 #
 #
 #
-#
-[![视频](https://cdn.zecheriah.com/img/tps/site/skingallery.jpg)](https://www.acfun.cn/v/ac26814316_2)
 #
 #  Minecraft Java 导入地图教程  
 ![](map/1.jpg)
