@@ -1,0 +1,8 @@
+.apk
+||*channelcode*^$important
+||szmmsns.qpic.cn*^
+||wx.qlogo.cn*^
+||szshort.weixin.qq.com*^
+||comm.weixin.qq.com*^
+||dns.weixin.qq.com*^
+||szextshort.weixin.qq.com*^

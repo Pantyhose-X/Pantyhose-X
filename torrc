@@ -1,0 +1,4 @@
+EntryNodes {nl},{de},{fr},{au},{es}
+ExitNodes {nl},{de},{us},{au},{sg}
+ExcludeNodes  {cn},{hk},{mo}
+StrictNodes  1
